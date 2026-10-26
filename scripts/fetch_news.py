@@ -32,32 +32,24 @@ FEEDS = [
         "source": "德国之声中文",
         "url": "https://rss.dw.com/atom/chi-zh",
     },
-    {
-        "category": "world",
-        "source": "纽约时报中文",
-        "url": "https://cn.nytimes.com/rss/",
-    },
     # --- AI 与科技 ---
     {
         "category": "tech",
         "source": "Hacker News",
         "url": "https://hnrss.org/frontpage",
     },
-    {
-        "category": "tech",
-        "source": "Ars Technica",
-        "url": "https://feeds.arstechnica.com/arstechnica/index",
-    },
     # --- 财经市场 ---
     {
         "category": "finance",
-        "source": "金融时报中文",
-        "url": "https://cn.ft.com/rss",
+        "source": "BBC中文经济",
+        "url": "https://feeds.bbci.co.uk/zhongchi/simp/rss.xml",
+        "filter_keywords": ["经济", "金融", "股市", "美元", "人民币", "央行", "通胀", "利率", "贸易", "投资", "市场", "油价", "欧盟", "中国经济"],
     },
     {
         "category": "finance",
-        "source": "Reuters World",
-        "url": "https://feeds.reuters.com/reuters/worldNews",
+        "source": "RFI经济",
+        "url": "https://www.rfi.fr/cn/rss",
+        "filter_keywords": ["经济", "金融", "股市", "美元", "人民币", "央行", "通胀", "利率", "贸易", "投资", "市场", "油价", "欧盟", "中国经济"],
     },
 ]
 
@@ -200,18 +192,28 @@ def main():
         cat = feed["category"]
         source = feed["source"]
         url = feed["url"]
+        keywords = feed.get("filter_keywords")
         try:
             print(f"Fetching {source} ({cat})...")
             xml_bytes = fetch_feed(url)
             items = parse_items(xml_bytes)
+            filtered = 0
             for item in items:
+                # If keyword filter is set, only keep matching items
+                if keywords:
+                    title_lower = item["title"].lower()
+                    if not any(kw.lower() in title_lower for kw in keywords):
+                        continue
+                    filtered += 1
                 item["source"] = source
-                # If the feed didn't specify source, use our configured one
                 if not item.get("source"):
                     item["source"] = source
                 result[cat].append(item)
                 all_items.append(item)
-            print(f"  -> {len(items)} items")
+            if keywords:
+                print(f"  -> {len(items)} total, {filtered} matched finance keywords")
+            else:
+                print(f"  -> {len(items)} items")
             result["sourceCount"] += 1
         except Exception as e:
             print(f"  -> FAILED: {e}")
