@@ -27,11 +27,6 @@ FEEDS = [
         "source": "BBC中文",
         "url": "https://feeds.bbci.co.uk/zhongchi/simp/rss.xml",
     },
-    {
-        "category": "world",
-        "source": "德国之声中文",
-        "url": "https://rss.dw.com/atom/chi-zh",
-    },
     # --- AI 与科技 ---
     {
         "category": "tech",
@@ -41,15 +36,13 @@ FEEDS = [
     # --- 财经市场 ---
     {
         "category": "finance",
-        "source": "BBC中文经济",
-        "url": "https://feeds.bbci.co.uk/zhongchi/simp/rss.xml",
-        "filter_keywords": ["经济", "金融", "股市", "美元", "人民币", "央行", "通胀", "利率", "贸易", "投资", "市场", "油价", "欧盟", "中国经济"],
+        "source": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
     },
     {
         "category": "finance",
         "source": "RFI经济",
         "url": "https://www.rfi.fr/cn/rss",
-        "filter_keywords": ["经济", "金融", "股市", "美元", "人民币", "央行", "通胀", "利率", "贸易", "投资", "市场", "油价", "欧盟", "中国经济"],
     },
 ]
 
