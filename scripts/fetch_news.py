@@ -19,18 +19,23 @@ FEEDS = [
     # --- 全球新闻 ---
     {
         "category": "world",
+        "source": "法国国际广播电台",
+        "url": "https://www.rfi.fr/cn/rss",
+    },
+    {
+        "category": "world",
         "source": "BBC中文",
         "url": "https://feeds.bbci.co.uk/zhongchi/simp/rss.xml",
     },
     {
         "category": "world",
         "source": "德国之声中文",
-        "url": "https://rss.dw.com/rdf/rss-chi-zh",
+        "url": "https://rss.dw.com/atom/chi-zh",
     },
     {
         "category": "world",
-        "source": "法国国际广播电台",
-        "url": "https://www.rfi.fr/cn/rss",
+        "source": "纽约时报中文",
+        "url": "https://cn.nytimes.com/rss/",
     },
     # --- AI 与科技 ---
     {
@@ -38,11 +43,21 @@ FEEDS = [
         "source": "Hacker News",
         "url": "https://hnrss.org/frontpage",
     },
+    {
+        "category": "tech",
+        "source": "Ars Technica",
+        "url": "https://feeds.arstechnica.com/arstechnica/index",
+    },
     # --- 财经市场 ---
     {
         "category": "finance",
         "source": "金融时报中文",
         "url": "https://cn.ft.com/rss",
+    },
+    {
+        "category": "finance",
+        "source": "Reuters World",
+        "url": "https://feeds.reuters.com/reuters/worldNews",
     },
 ]
 
@@ -131,6 +146,28 @@ def parse_items(xml_bytes):
                 items.append({
                     "title": title,
                     "link": link,
+                    "pubDate": parse_date(pub_date),
+                    "source": "",
+                })
+
+    # Atom 1.0: <entry> with atom namespace
+    if not items:
+        ns_atom = {"atom": "http://www.w3.org/2005/Atom"}
+        for entry in root.findall(".//atom:entry", ns_atom):
+            title = strip_html(entry.findtext("atom:title", ns_atom) or "")
+            # Atom link can have multiple <link> elements; pick the one with rel="alternate" or first
+            link = ""
+            for l in entry.findall("atom:link", ns_atom):
+                if l.get("rel") == "alternate" or not l.get("rel"):
+                    link = l.get("href", "")
+                    break
+            if not link:
+                link = entry.findtext("atom:link", ns_atom) or ""
+            pub_date = entry.findtext("atom:published", ns_atom) or entry.findtext("atom:updated", ns_atom) or ""
+            if title and link:
+                items.append({
+                    "title": title,
+                    "link": link.strip(),
                     "pubDate": parse_date(pub_date),
                     "source": "",
                 })
