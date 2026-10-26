@@ -1,0 +1,368 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%235fd4ff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Ccircle cx='12' cy='12' r='2'/%3E%3Cpath d='M16.24 7.76a6 6 0 0 1 0 8.49'/%3E%3Cpath d='M7.76 16.24a6 6 0 0 1 0-8.49'/%3E%3Cpath d='M19.07 4.93a10 10 0 0 1 0 14.14'/%3E%3Cpath d='M4.93 19.07a10 10 0 0 1 0-14.14'/%3E%3C/svg%3E">
+<title>全球资讯大屏 · Global Signal</title>
+<style>
+  :root {
+    color-scheme: dark;
+    --bg: #060e1a;
+    --panel: rgba(13, 26, 44, .82);
+    --border: rgba(100, 180, 240, .18);
+    --text: #e8f2ff;
+    --muted: #7d97b5;
+    --cyan: #5fd4ff;
+    --green: #5ee6a8;
+    --amber: #f0c060;
+    --red: #ff7a7a;
+  }
+  * { box-sizing: border-box; }
+  html, body { width: 100%; height: 100%; margin: 0; }
+  body {
+    background:
+      radial-gradient(ellipse at 15% -5%, rgba(28, 90, 150, .28), transparent 45%),
+      radial-gradient(ellipse at 95% 100%, rgba(20, 80, 100, .18), transparent 40%),
+      var(--bg);
+    color: var(--text);
+    font-family: "Segoe UI", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+    overflow: hidden;
+  }
+  .app {
+    height: 100%;
+    padding: 16px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  /* ===== Header ===== */
+  header {
+    min-height: 68px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 20px;
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    background: linear-gradient(110deg, rgba(14, 32, 54, .95), rgba(8, 20, 36, .9));
+  }
+  .brand h1 {
+    margin: 0;
+    font-size: clamp(18px, 1.8vw, 26px);
+    font-weight: 650;
+    letter-spacing: .06em;
+  }
+  .brand p {
+    margin: 4px 0 0;
+    color: var(--muted);
+    font-size: 11px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+  }
+  .head-right {
+    display: flex;
+    align-items: center;
+    gap: 24px;
+  }
+  .status {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 12px;
+    color: var(--green);
+  }
+  .status::before {
+    content: "";
+    width: 7px; height: 7px;
+    background: var(--green);
+    border-radius: 50%;
+    box-shadow: 0 0 10px var(--green);
+    animation: pulse 2s ease-in-out infinite;
+  }
+  .status.error { color: var(--red); }
+  .status.error::before { background: var(--red); box-shadow: 0 0 10px var(--red); animation: none; }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; }
+    50% { opacity: .4; }
+  }
+  .clock { text-align: right; }
+  #time {
+    font-size: clamp(22px, 2.4vw, 32px);
+    font-variant-numeric: tabular-nums;
+    font-weight: 600;
+    letter-spacing: .04em;
+  }
+  #date {
+    color: var(--muted);
+    margin-top: 3px;
+    font-size: 11px;
+  }
+
+  /* ===== Main Grid ===== */
+  main {
+    flex: 1;
+    min-height: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 12px;
+  }
+  .panel {
+    min-height: 0;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    border: 1px solid var(--border);
+    border-radius: 13px;
+    background: var(--panel);
+  }
+  .panel-head {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--border);
+  }
+  .panel-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 14px;
+    font-weight: 650;
+    letter-spacing: .04em;
+  }
+  .panel-title .dot {
+    width: 8px; height: 8px;
+    border-radius: 2px;
+    background: var(--cyan);
+    box-shadow: 0 0 8px rgba(95, 212, 255, .5);
+  }
+  .panel[data-cat="tech"] .dot { background: var(--green); box-shadow: 0 0 8px rgba(94, 230, 168, .5); }
+  .panel[data-cat="finance"] .dot { background: var(--amber); box-shadow: 0 0 8px rgba(240, 192, 96, .5); }
+  .panel[data-cat="trending"] .dot { background: #ff9ad8; box-shadow: 0 0 8px rgba(255, 154, 216, .5); }
+  .tag {
+    color: var(--muted);
+    font-size: 10px;
+    letter-spacing: .1em;
+    padding: 3px 8px;
+    border: 1px solid var(--border);
+    border-radius: 20px;
+  }
+
+  /* ===== News List ===== */
+  .feed {
+    flex: 1;
+    overflow-y: auto;
+    padding: 4px 16px 10px;
+  }
+  .feed::-webkit-scrollbar { width: 4px; }
+  .feed::-webkit-scrollbar-thumb { background: rgba(100, 180, 240, .2); border-radius: 4px; }
+  .item {
+    display: grid;
+    grid-template-columns: 52px 1fr;
+    gap: 12px;
+    padding: 11px 0;
+    border-bottom: 1px solid rgba(100, 180, 240, .08);
+  }
+  .item:last-child { border-bottom: 0; }
+  .item-time {
+    color: var(--cyan);
+    font-size: 10px;
+    font-variant-numeric: tabular-nums;
+    padding-top: 3px;
+    line-height: 1.4;
+  }
+  .item h3 {
+    margin: 0 0 4px;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 1.5;
+  }
+  .item h3 a {
+    color: var(--text);
+    text-decoration: none;
+  }
+  .item h3 a:hover { color: var(--cyan); }
+  .item .meta {
+    color: var(--muted);
+    font-size: 10px;
+    line-height: 1.4;
+  }
+  .empty {
+    color: var(--muted);
+    font-size: 12px;
+    line-height: 1.8;
+    padding: 20px 8px;
+    text-align: center;
+  }
+
+  /* ===== Footer ===== */
+  footer {
+    display: flex;
+    justify-content: space-between;
+    gap: 16px;
+    color: var(--muted);
+    font-size: 10px;
+    padding: 0 4px;
+    letter-spacing: .04em;
+  }
+
+  /* ===== Responsive ===== */
+  @media (max-width: 800px) {
+    body { overflow: auto; }
+    .app { height: auto; min-height: 100%; padding: 10px; }
+    header { flex-direction: column; align-items: flex-start; gap: 10px; padding: 14px; }
+    .head-right { flex-direction: column-reverse; align-items: flex-end; gap: 8px; }
+    main {
+      grid-template-columns: 1fr;
+      grid-template-rows: repeat(4, minmax(280px, auto));
+    }
+    footer { flex-direction: column; gap: 6px; }
+  }
+</style>
+</head>
+<body>
+<div class="app">
+  <header>
+    <div class="brand">
+      <h1>Global Signal · 全球资讯大屏</h1>
+      <p>International News · Auto Refresh</p>
+    </div>
+    <div class="head-right">
+      <div class="status" id="connection">加载中…</div>
+      <div class="clock">
+        <div id="time">--:--:--</div>
+        <div id="date">--</div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel" data-cat="world">
+      <div class="panel-head">
+        <div class="panel-title"><span class="dot"></span>全球新闻</div>
+        <span class="tag">WORLD</span>
+      </div>
+      <div class="feed" id="feed-world">
+        <div class="empty">正在加载…</div>
+      </div>
+    </section>
+
+    <section class="panel" data-cat="tech">
+      <div class="panel-head">
+        <div class="panel-title"><span class="dot"></span>AI 与科技</div>
+        <span class="tag">TECH</span>
+      </div>
+      <div class="feed" id="feed-tech">
+        <div class="empty">正在加载…</div>
+      </div>
+    </section>
+
+    <section class="panel" data-cat="finance">
+      <div class="panel-head">
+        <div class="panel-title"><span class="dot"></span>财经市场</div>
+        <span class="tag">MARKETS</span>
+      </div>
+      <div class="feed" id="feed-finance">
+        <div class="empty">正在加载…</div>
+      </div>
+    </section>
+
+    <section class="panel" data-cat="trending">
+      <div class="panel-head">
+        <div class="panel-title"><span class="dot"></span>热点趋势</div>
+        <span class="tag">TRENDING</span>
+      </div>
+      <div class="feed" id="feed-trending">
+        <div class="empty">正在加载…</div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span id="updated">数据更新时间：--</span>
+    <span id="sources">数据源：--</span>
+    <span>每 5 分钟自动刷新</span>
+  </footer>
+</div>
+
+<script>
+(function () {
+  const pad = n => String(n).padStart(2, "0");
+
+  function updateClock() {
+    const now = new Date();
+    document.getElementById("time").textContent =
+      `${pad(now.getHours())}:${pad(now.getMinutes())}:${pad(now.getSeconds())}`;
+    document.getElementById("date").textContent =
+      new Intl.DateTimeFormat("zh-CN", {
+        year: "numeric", month: "long", day: "numeric", weekday: "long"
+      }).format(now);
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+
+  function fmtTime(iso) {
+    if (!iso) return "";
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return "";
+    return `${pad(d.getMonth() + 1)}/${pad(d.getDate())} ${pad(d.getHours())}:${pad(d.getMinutes())}`;
+  }
+
+  function esc(s) {
+    return (s || "").replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
+  }
+
+  function renderFeed(cat, items) {
+    const el = document.getElementById("feed-" + cat);
+    if (!items || !items.length) {
+      el.innerHTML = '<div class="empty">暂无数据</div>';
+      return;
+    }
+    el.innerHTML = items.map(item => `
+      <article class="item">
+        <div class="item-time">${fmtTime(item.pubDate)}</div>
+        <div>
+          <h3><a href="${esc(item.link)}" target="_blank" rel="noopener noreferrer">${esc(item.title)}</a></h3>
+          <div class="meta">${esc(item.source)}</div>
+        </div>
+      </article>
+    `).join("");
+  }
+
+  function setStatus(text, isError) {
+    const el = document.getElementById("connection");
+    el.textContent = text;
+    el.classList.toggle("error", !!isError);
+  }
+
+  async function loadData() {
+    try {
+      const res = await fetch("data/news.json?t=" + Date.now(), { cache: "no-store" });
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      const data = await res.json();
+
+      renderFeed("world", data.world);
+      renderFeed("tech", data.tech);
+      renderFeed("finance", data.finance);
+      renderFeed("trending", data.trending);
+
+      document.getElementById("updated").textContent =
+        "数据更新时间：" + (data.generatedAt ? new Date(data.generatedAt).toLocaleString("zh-CN", {hour12: false}) : "--");
+      document.getElementById("sources").textContent =
+        "数据源：" + (data.sourceCount || 0) + " 个国际中文媒体";
+
+      setStatus("在线 · 数据已更新");
+    } catch (err) {
+      setStatus("数据加载失败 · " + err.message, true);
+    }
+  }
+
+  loadData();
+  setInterval(loadData, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>
