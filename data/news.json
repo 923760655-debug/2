@@ -1,6 +1,36 @@
 {
   "world": [
     {
+      "title": "败选的博索纳罗（Flávio Bolsonaro）离境前往美国",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261027-%E8%B4%A5%E9%80%89%E7%9A%84%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97-fl%C3%A1vio-bolsonaro-%E7%A6%BB%E5%A2%83%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9B%BD",
+      "pubDate": "2026-10-27T20:57:43+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美国欧盟等30国联合声明警告苏丹冲突恶化引发饥荒",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261027-%E7%BE%8E%E5%9B%BD%E6%AC%A7%E7%9B%9F%E7%AD%8930%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E8%AD%A6%E5%91%8A%E8%8B%8F%E4%B8%B9%E5%86%B2%E7%AA%81%E6%81%B6%E5%8C%96%E5%BC%95%E5%8F%91%E9%A5%A5%E8%8D%92",
+      "pubDate": "2026-10-27T20:31:28+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美国期中选举倒数一周 民主党有望夺回国会两院",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261027-%E7%BE%8E%E5%9B%BD%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E5%80%92%E6%95%B0%E4%B8%80%E5%91%A8-%E6%B0%91%E4%B8%BB%E5%85%9A%E6%9C%89%E6%9C%9B%E5%A4%BA%E5%9B%9E%E5%9B%BD%E4%BC%9A%E4%B8%A4%E9%99%A2",
+      "pubDate": "2026-10-27T19:55:55+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "为俄乌停战芬兰总统与挪威首相首次与普京通话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261027-%E4%B8%BA%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E4%B8%8E%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E9%A6%96%E6%AC%A1%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D",
+      "pubDate": "2026-10-27T19:43:53+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "塞尔维亚学生要求国家媒体负责人辞职 地方媒体就长期以来的失职道歉",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261027-%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%AD%A6%E7%94%9F%E8%A6%81%E6%B1%82%E5%9B%BD%E5%AE%B6%E5%AA%92%E4%BD%93%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%BE%9E%E8%81%8C-%E5%9C%B0%E6%96%B9%E5%AA%92%E4%BD%93%E5%B0%B1%E9%95%BF%E6%9C%9F%E4%BB%A5%E6%9D%A5%E7%9A%84%E5%A4%B1%E8%81%8C%E9%81%93%E6%AD%89",
+      "pubDate": "2026-10-27T17:17:10+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "TP-Link再遇监管阻力 美联邦通信委员会指其部分路由器功率超限",
       "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261027-tp-link%E5%86%8D%E9%81%87%E7%9B%91%E7%AE%A1%E9%98%BB%E5%8A%9B-%E7%BE%8E%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A%E6%8C%87%E5%85%B6%E9%83%A8%E5%88%86%E8%B7%AF%E7%94%B1%E5%99%A8%E5%8A%9F%E7%8E%87%E8%B6%85%E9%99%90",
       "pubDate": "2026-10-27T16:28:32+00:00",
@@ -41,49 +71,55 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261027-%E6%97%A5%E5%A4%96%E7%9B%B8%E6%8C%87%E5%B0%B1%E9%AB%98%E5%B8%82%E5%87%BA%E5%B8%AD11%E6%9C%88apec%E6%B7%B1%E5%9C%B3%E5%B3%B0%E4%BC%9A%E8%BF%9B%E8%A1%8C%E5%8D%8F%E8%B0%83-%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%91%E7%A6%8F%E7%94%B0%E5%BA%B7%E5%A4%AB%E9%81%97%E5%B1%9E%E8%87%B4%E5%94%81%E7%94%B5",
       "pubDate": "2026-10-27T12:25:01+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "前中联部部长刘建超据报被断崖式贬官",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261027-%E5%89%8D%E4%B8%AD%E8%81%94%E9%83%A8%E9%83%A8%E9%95%BF%E5%88%98%E5%BB%BA%E8%B6%85%E6%8D%AE%E6%8A%A5%E8%A2%AB%E6%96%AD%E5%B4%96%E5%BC%8F%E8%B4%AC%E5%AE%98",
-      "pubDate": "2026-10-27T11:58:07+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "加拿大卑诗省保守党掌权后配合卡尼能源政策　中国将成海路出口最大买家",
-      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261027-%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%8D%91%E8%AF%97%E7%9C%81%E4%BF%9D%E5%AE%88%E5%85%9A%E6%8E%8C%E6%9D%83%E5%90%8E%E9%85%8D%E5%90%88%E5%8D%A1%E5%B0%BC%E8%83%BD%E6%BA%90%E6%94%BF%E7%AD%96-%E4%B8%AD%E5%9B%BD%E5%B0%86%E6%88%90%E6%B5%B7%E8%B7%AF%E5%87%BA%E5%8F%A3%E6%9C%80%E5%A4%A7%E4%B9%B0%E5%AE%B6",
-      "pubDate": "2026-10-27T10:43:09+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "董军罕见缺席东盟防长扩大会议 日防卫相此前称愿与其在会议期间“坦诚交流”",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261027-%E8%91%A3%E5%86%9B%E7%BD%95%E8%A7%81%E7%BC%BA%E5%B8%AD%E4%B8%9C%E7%9B%9F%E9%98%B2%E9%95%BF%E6%89%A9%E5%A4%A7%E4%BC%9A-%E5%A4%96%E7%95%8C%E6%9B%BE%E5%85%B3%E6%B3%A8%E6%97%A5%E4%B8%AD%E9%98%B2%E9%95%BF%E8%83%BD%E5%90%A6%E5%9C%A8%E4%BC%9A%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%86%8D%E4%BC%9A%E6%99%A4",
-      "pubDate": "2026-10-27T10:35:53+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国官媒光复节发布台湾高清卫星影像 顾立雄指认知作战",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261027-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92%E5%85%89%E5%A4%8D%E8%8A%82%E5%8F%91%E5%B8%83%E5%8F%B0%E6%B9%BE%E9%AB%98%E6%B8%85%E5%8D%AB%E6%98%9F%E5%BD%B1%E5%83%8F-%E9%A1%BE%E7%AB%8B%E9%9B%84%E6%8C%87%E8%AE%A4%E7%9F%A5%E4%BD%9C%E6%88%98",
-      "pubDate": "2026-10-27T10:31:20+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "被指“冒犯民族情感”  在中国遭抵制商业合作被终止   姆巴佩声明道歉",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261027-%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A2%AB%E6%8C%87-%E5%86%92%E7%8A%AF%E6%B0%91%E6%97%8F%E6%83%85%E6%84%9F-%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%81%AD%E6%8A%B5%E5%88%B6-%E5%95%86%E4%B8%9A%E5%90%88%E4%BD%9C%E8%A2%AB%E7%BB%88%E6%AD%A2",
-      "pubDate": "2026-10-27T09:51:58+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "pubDate": "2026-10-27T16:40:15+00:00",
+      "title": "Four Months of Zig",
+      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "pubDate": "2026-10-27T20:13:27+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "pubDate": "2026-10-27T16:38:08+00:00",
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "pubDate": "2026-10-27T19:55:21+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "pubDate": "2026-10-27T19:55:06+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "pubDate": "2026-10-27T18:44:17+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Three TLS Bugs in GoAhead",
+      "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "pubDate": "2026-10-27T18:33:48+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+      "link": "https://www.liquid.ai/blog/lfm3",
+      "pubDate": "2026-10-27T17:04:50+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ghostty 1.4.0",
+      "link": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "pubDate": "2026-10-27T16:51:22+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+      "pubDate": "2026-10-27T16:40:15+00:00",
       "source": "Hacker News"
     },
     {
@@ -99,9 +135,9 @@
       "source": "Hacker News"
     },
     {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "link": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "pubDate": "2026-10-27T16:25:12+00:00",
+      "title": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+      "pubDate": "2026-10-27T16:25:30+00:00",
       "source": "Hacker News"
     },
     {
@@ -109,45 +145,57 @@
       "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
       "pubDate": "2026-10-27T16:25:12+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
-      "link": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
-      "pubDate": "2026-10-27T16:21:55+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "pubDate": "2026-10-27T16:08:32+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Genie 4",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "pubDate": "2026-10-27T16:06:01+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-      "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-      "pubDate": "2026-10-27T15:39:29+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Anthropic trained Claude on illegally obtained Stanford professors' books",
-      "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
-      "pubDate": "2026-10-27T15:28:26+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "My video has unit tests",
-      "link": "https://pertiller.tech/blog/my-video-written-in-code/",
-      "pubDate": "2026-10-27T15:15:32+00:00",
-      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "败选的博索纳罗（Flávio Bolsonaro）离境前往美国",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261027-%E8%B4%A5%E9%80%89%E7%9A%84%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97-fl%C3%A1vio-bolsonaro-%E7%A6%BB%E5%A2%83%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9B%BD",
+      "pubDate": "2026-10-27T20:57:43+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "美国欧盟等30国联合声明警告苏丹冲突恶化引发饥荒",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261027-%E7%BE%8E%E5%9B%BD%E6%AC%A7%E7%9B%9F%E7%AD%8930%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E8%AD%A6%E5%91%8A%E8%8B%8F%E4%B8%B9%E5%86%B2%E7%AA%81%E6%81%B6%E5%8C%96%E5%BC%95%E5%8F%91%E9%A5%A5%E8%8D%92",
+      "pubDate": "2026-10-27T20:31:28+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "pubDate": "2026-10-27T20:31:17+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "美国期中选举倒数一周 民主党有望夺回国会两院",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261027-%E7%BE%8E%E5%9B%BD%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E5%80%92%E6%95%B0%E4%B8%80%E5%91%A8-%E6%B0%91%E4%B8%BB%E5%85%9A%E6%9C%89%E6%9C%9B%E5%A4%BA%E5%9B%9E%E5%9B%BD%E4%BC%9A%E4%B8%A4%E9%99%A2",
+      "pubDate": "2026-10-27T19:55:55+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "为俄乌停战芬兰总统与挪威首相首次与普京通话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261027-%E4%B8%BA%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E4%B8%8E%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E9%A6%96%E6%AC%A1%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D",
+      "pubDate": "2026-10-27T19:43:53+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "pubDate": "2026-10-27T18:55:35+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "塞尔维亚学生要求国家媒体负责人辞职 地方媒体就长期以来的失职道歉",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261027-%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%AD%A6%E7%94%9F%E8%A6%81%E6%B1%82%E5%9B%BD%E5%AE%B6%E5%AA%92%E4%BD%93%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%BE%9E%E8%81%8C-%E5%9C%B0%E6%96%B9%E5%AA%92%E4%BD%93%E5%B0%B1%E9%95%BF%E6%9C%9F%E4%BB%A5%E6%9D%A5%E7%9A%84%E5%A4%B1%E8%81%8C%E9%81%93%E6%AD%89",
+      "pubDate": "2026-10-27T17:17:10+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?",
+      "link": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "pubDate": "2026-10-27T17:08:08+00:00",
+      "source": "TechCrunch"
+    },
     {
       "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
       "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
@@ -171,130 +219,82 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261027-%E5%A7%86%E5%B7%B4%E4%BD%A9-%E8%A5%BF%E7%94%B2%E9%81%93%E6%AD%89-%E4%B8%AD%E5%9B%BD%E5%AE%98%E5%AA%92-%E6%9C%9B%E5%88%87%E5%AE%9E%E4%BB%8E%E4%B8%AD%E5%90%B8%E5%8F%96%E6%95%99%E8%AE%AD-%E7%97%9B%E6%94%B9%E5%89%8D%E9%9D%9E",
       "pubDate": "2026-10-27T15:03:56+00:00",
       "source": "RFI经济"
-    },
-    {
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "link": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
-      "pubDate": "2026-10-27T14:59:09+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Ford Fathom will be the cheapest American EV capable of powering a house",
-      "link": "https://techcrunch.com/2026/10/27/ford-fathom-will-be-the-cheapest-american-ev-capable-of-powering-a-house/",
-      "pubDate": "2026-10-27T14:51:33+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "US government says hackers are now exploiting critical PHP web bugs",
-      "link": "https://techcrunch.com/2026/10/27/us-government-says-hackers-are-now-exploiting-critical-php-web-bugs/",
-      "pubDate": "2026-10-27T14:40:39+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "以色列：10·7恐袭后首次大选 关乎内塔尼亚胡政治前途之战 ？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261027-%E4%BB%A5%E8%89%B2%E5%88%97-10%C2%B77%E6%81%90%E8%A2%AD%E5%90%8E%E9%A6%96%E6%AC%A1%E5%A4%A7%E9%80%89-%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E8%BF%9E%E4%BB%BB%E5%8F%97%E8%80%83%E9%AA%8C",
-      "pubDate": "2026-10-27T14:29:17+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "Apple unveils new 14-inch MacBook Pro with M6 chip",
-      "link": "https://techcrunch.com/2026/10/27/apple-unveils-new-14-inch-macbook-pro-with-m6-chip/",
-      "pubDate": "2026-10-27T14:25:11+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "国大党发言人发涉华视频印军指深度伪造 印部长要求道歉",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261027-%E5%9B%BD%E5%A4%A7%E5%85%9A%E5%8F%91%E8%A8%80%E4%BA%BA%E5%8F%91%E6%B6%89%E5%8D%8E%E8%A7%86%E9%A2%91%E5%8D%B0%E5%86%9B%E6%8C%87%E4%B8%BA%E6%B7%B1%E5%BA%A6%E4%BC%AA%E9%80%A0-%E5%8D%B0%E9%83%A8%E9%95%BF%E6%95%A6%E4%BF%83%E9%81%93%E6%AD%89",
-      "pubDate": "2026-10-27T14:13:02+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "视频 为什么美国人总是选择在星期二投票？",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261027-%E8%A7%86%E9%A2%91-%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BE%8E%E5%9B%BD%E4%BA%BA%E6%80%BB%E6%98%AF%E9%80%89%E6%8B%A9%E5%9C%A8%E6%98%9F%E6%9C%9F%E4%BA%8C%E6%8A%95%E7%A5%A8",
-      "pubDate": "2026-10-27T14:06:48+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "Apple rolls out iOS 27.2 with new Siri AI languages and security fixes",
-      "link": "https://techcrunch.com/2026/10/27/apple-rolls-out-ios-27-2-with-new-siri-ai-languages-and-security-fixes/",
-      "pubDate": "2026-10-27T13:54:51+00:00",
-      "source": "TechCrunch"
     }
   ],
   "trending": [
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
-      "pubDate": "2026-10-27T16:40:15+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "A 28-Year-Old DOGE Operative Gutted USAID. HR Had No Record of Him Working There",
-      "link": "https://www.wired.com/story/a-28-year-old-doge-operative-gutted-usaid-hr-had-no-record-of-him-working-there/",
-      "pubDate": "2026-10-27T16:38:08+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering",
-      "link": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
-      "pubDate": "2026-10-27T16:30:57+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Classification of Finite Simple Groups Formalized in Lean",
-      "link": "https://cfsg.axiommath.ai/",
-      "pubDate": "2026-10-27T16:29:02+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "TP-Link再遇监管阻力 美联邦通信委员会指其部分路由器功率超限",
-      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261027-tp-link%E5%86%8D%E9%81%87%E7%9B%91%E7%AE%A1%E9%98%BB%E5%8A%9B-%E7%BE%8E%E8%81%94%E9%82%A6%E9%80%9A%E4%BF%A1%E5%A7%94%E5%91%98%E4%BC%9A%E6%8C%87%E5%85%B6%E9%83%A8%E5%88%86%E8%B7%AF%E7%94%B1%E5%99%A8%E5%8A%9F%E7%8E%87%E8%B6%85%E9%99%90",
-      "pubDate": "2026-10-27T16:28:32+00:00",
+      "title": "败选的博索纳罗（Flávio Bolsonaro）离境前往美国",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261027-%E8%B4%A5%E9%80%89%E7%9A%84%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97-fl%C3%A1vio-bolsonaro-%E7%A6%BB%E5%A2%83%E5%89%8D%E5%BE%80%E7%BE%8E%E5%9B%BD",
+      "pubDate": "2026-10-27T20:57:43+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "Vicious Cycles: Theses on a philosophy of news",
-      "link": "https://harpers.org/archive/2020/01/vicious-cycles-theses-on-a-philosophy-of-news/",
-      "pubDate": "2026-10-27T16:27:29+00:00",
+      "title": "美国欧盟等30国联合声明警告苏丹冲突恶化引发饥荒",
+      "link": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/20261027-%E7%BE%8E%E5%9B%BD%E6%AC%A7%E7%9B%9F%E7%AD%8930%E5%9B%BD%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E%E8%AD%A6%E5%91%8A%E8%8B%8F%E4%B8%B9%E5%86%B2%E7%AA%81%E6%81%B6%E5%8C%96%E5%BC%95%E5%8F%91%E9%A5%A5%E8%8D%92",
+      "pubDate": "2026-10-27T20:31:28+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Re:Build, which spun out Slate Auto, raises $2.1B",
+      "link": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+      "pubDate": "2026-10-27T20:31:17+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Four Months of Zig",
+      "link": "https://gracefulliberty.com/articles/four-months-of-zig/",
+      "pubDate": "2026-10-27T20:13:27+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "We let our cloud agents query prod (with OIDC, not secrets)",
-      "link": "https://www.formal.ai/blog/cloud-agents-oidc-infrastructure/",
-      "pubDate": "2026-10-27T16:25:12+00:00",
+      "title": "美国期中选举倒数一周 民主党有望夺回国会两院",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261027-%E7%BE%8E%E5%9B%BD%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E5%80%92%E6%95%B0%E4%B8%80%E5%91%A8-%E6%B0%91%E4%B8%BB%E5%85%9A%E6%9C%89%E6%9C%9B%E5%A4%BA%E5%9B%9E%E5%9B%BD%E4%BC%9A%E4%B8%A4%E9%99%A2",
+      "pubDate": "2026-10-27T19:55:55+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "link": "https://tailscale.com/ssh-investigation-update",
+      "pubDate": "2026-10-27T19:55:21+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch",
-      "link": "https://cloudsleuth.io/blog/php2shell-litellm-gitlab-find-what-you-run/",
-      "pubDate": "2026-10-27T16:25:12+00:00",
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "link": "https://www.brangus.io/survival-llm",
+      "pubDate": "2026-10-27T19:55:06+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Reducibility Among Combinatorial Problems (1972) [pdf]",
-      "link": "https://cgi.di.uoa.gr/~sgk/teaching/grad/handouts/karp.pdf",
-      "pubDate": "2026-10-27T16:21:55+00:00",
+      "title": "为俄乌停战芬兰总统与挪威首相首次与普京通话",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261027-%E4%B8%BA%E4%BF%84%E4%B9%8C%E5%81%9C%E6%88%98%E8%8A%AC%E5%85%B0%E6%80%BB%E7%BB%9F%E4%B8%8E%E6%8C%AA%E5%A8%81%E9%A6%96%E7%9B%B8%E9%A6%96%E6%AC%A1%E4%B8%8E%E6%99%AE%E4%BA%AC%E9%80%9A%E8%AF%9D",
+      "pubDate": "2026-10-27T19:43:53+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "link": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "pubDate": "2026-10-27T18:55:35+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Discord will soon let anyone find public server messages through Google",
+      "link": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+      "pubDate": "2026-10-27T18:44:17+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Apple introduces the new 14‑inch MacBook Pro with M6",
-      "link": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
-      "pubDate": "2026-10-27T16:08:32+00:00",
+      "title": "Three TLS Bugs in GoAhead",
+      "link": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+      "pubDate": "2026-10-27T18:33:48+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Genie 4",
-      "link": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "pubDate": "2026-10-27T16:06:01+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
-      "link": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
-      "pubDate": "2026-10-27T15:39:29+00:00",
-      "source": "Hacker News"
+      "title": "塞尔维亚学生要求国家媒体负责人辞职 地方媒体就长期以来的失职道歉",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261027-%E5%A1%9E%E5%B0%94%E7%BB%B4%E4%BA%9A%E5%AD%A6%E7%94%9F%E8%A6%81%E6%B1%82%E5%9B%BD%E5%AE%B6%E5%AA%92%E4%BD%93%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%BE%9E%E8%81%8C-%E5%9C%B0%E6%96%B9%E5%AA%92%E4%BD%93%E5%B0%B1%E9%95%BF%E6%9C%9F%E4%BB%A5%E6%9D%A5%E7%9A%84%E5%A4%B1%E8%81%8C%E9%81%93%E6%AD%89",
+      "pubDate": "2026-10-27T17:17:10+00:00",
+      "source": "法国国际广播电台"
     }
   ],
-  "generatedAt": "2026-10-27T16:56:16.918254+00:00",
+  "generatedAt": "2026-10-27T21:03:35.220862+00:00",
   "sourceCount": 4
 }
