@@ -1,6 +1,48 @@
 {
   "world": [
     {
+      "title": "万圣节之夜，法国迎来第三轮抗议活动，预计至少35万人参加",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261031-%E4%B8%87%E5%9C%A3%E8%8A%82%E4%B9%8B%E5%A4%9C%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%EF%BC%8C%E9%A2%84%E8%AE%A1%E8%87%B3%E5%B0%9135%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0",
+      "pubDate": "2026-10-31T12:57:39+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "姆巴佩迷因风波被指「冒犯民族情感」遭中国封杀、引网友众怒都因「毛泽东热」？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261031-%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%B7%E5%9B%A0%E9%A3%8E%E6%B3%A2%E8%A2%AB%E6%8C%87-%E5%86%92%E7%8A%AF%E6%B0%91%E6%97%8F%E6%83%85%E6%84%9F-%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80-%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BC%97%E6%80%92%E9%83%BD%E5%9B%A0-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%83%AD",
+      "pubDate": "2026-10-31T12:20:06+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "“梅拉尼娅应获诺贝尔和平奖” ：赫尔松在72小时停火中暂获安宁",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261031-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%92%8C%E5%B9%B3%E8%AF%BA%E5%A5%96-%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%81%9C%E7%81%AB%E4%B8%AD%E6%9A%82%E8%8E%B7%E5%AE%89%E5%AE%81",
+      "pubDate": "2026-10-31T12:13:22+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "台北市长辩论：蒋万安猛攻批评对手 沈伯洋称辩论应为展现立场与讨论市政议题",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261031-%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E8%BE%A9%E8%AE%BA-%E8%92%8B%E4%B8%87%E5%AE%89%E7%8C%9B%E6%94%BB%E6%89%B9%E8%AF%84%E5%AF%B9%E6%89%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A7%B0%E8%BE%A9%E8%AE%BA%E5%BA%94%E4%B8%BA%E5%B1%95%E7%8E%B0%E7%AB%8B%E5%9C%BA%E4%B8%8E%E8%AE%A8%E8%AE%BA%E5%B8%82%E6%94%BF%E8%AE%AE%E9%A2%98",
+      "pubDate": "2026-10-31T10:37:58+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "日俄外长时隔五年会谈  日本要求释放日本记者",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%97%A5%E4%BF%84%E5%A4%96%E9%95%BF%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E8%A6%81%E6%B1%82%E9%87%8A%E6%94%BE%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85",
+      "pubDate": "2026-10-31T10:30:48+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "多家科技巨头向媒体承诺：将出台新方案，禁止抓取新闻内容用以训练AI模型",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261031-%E5%A4%9A%E5%AE%B6%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%90%91%E5%AA%92%E4%BD%93%E6%89%BF%E8%AF%BA-%E5%B0%86%E5%87%BA%E5%8F%B0%E6%96%B0%E6%96%B9%E6%A1%88%EF%BC%8C%E7%A6%81%E6%AD%A2%E6%8A%93%E5%8F%96%E6%96%B0%E9%97%BB%E5%86%85%E5%AE%B9%E7%94%A8%E4%BB%A5%E8%AE%AD%E7%BB%83ai%E6%A8%A1%E5%9E%8B",
+      "pubDate": "2026-10-31T09:00:07+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美国以国安为由 计划禁止中国电信企业直接接入美国电话号码",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E4%BB%A5%E5%9B%BD%E5%AE%89%E4%B8%BA%E7%94%B1-%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E4%BC%81%E4%B8%9A%E7%9B%B4%E6%8E%A5%E6%8E%A5%E5%85%A5%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81",
+      "pubDate": "2026-10-31T08:49:58+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "习近平不断发起清洗，暴露出他对中国共产党的不满与失望",
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261031-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8D%E6%96%AD%E5%8F%91%E8%B5%B7%E6%B8%85%E6%B4%97%EF%BC%8C%E6%9A%B4%E9%9C%B2%E5%87%BA%E4%BB%96%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%B8%8D%E6%BB%A1%E4%B8%8E%E5%A4%B1%E6%9C%9B",
       "pubDate": "2026-10-31T00:36:19+00:00",
@@ -29,51 +71,63 @@
       "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-%EF%BC%8C%E8%AE%A9%E9%A2%84%E7%AE%97%E5%BD%A2%E5%8A%BF%E6%9B%B4%E8%B6%8B%E5%A4%8D%E6%9D%82",
       "pubDate": "2026-10-30T22:30:42+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "法国正严阵以待，准备迎接第三波周末抗议活动",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E6%AD%A3%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85%EF%BC%8C%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%91%A8%E6%9C%AB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8",
-      "pubDate": "2026-10-30T22:27:35+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "抗议高物价　意大利数十万学生、劳工上街示威",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%8A%97%E8%AE%AE%E9%AB%98%E7%89%A9%E4%BB%B7-%E6%84%8F%E5%A4%A7%E5%88%A9%E6%95%B0%E5%8D%81%E4%B8%87%E5%AD%A6%E7%94%9F-%E5%8A%B3%E5%B7%A5%E4%B8%8A%E8%A1%97%E7%A4%BA%E5%A8%81",
-      "pubDate": "2026-10-30T19:01:21+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "经济与通胀问题笼罩期中选举",
-      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261030-%E7%BB%8F%E6%B5%8E%E4%B8%8E%E9%80%9A%E8%83%80%E9%97%AE%E9%A2%98%E7%AC%BC%E7%BD%A9%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE",
-      "pubDate": "2026-10-30T17:56:50+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国在与菲律宾争议海域黄岩岛浅滩周边开展战备巡逻",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261030-%E4%B8%AD%E5%9B%BD%E5%9C%A8%E4%B8%8E%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%BA%89%E8%AE%AE%E6%B5%B7%E5%9F%9F%E9%BB%84%E5%B2%A9%E5%B2%9B%E6%B5%85%E6%BB%A9%E5%91%A8%E8%BE%B9%E5%BC%80%E5%B1%95%E6%88%98%E5%A4%87%E5%B7%A1%E9%80%BB",
-      "pubDate": "2026-10-30T17:46:38+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "G20外长会议卢比奥接待同行，因冲突蒙上阴影",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261030-g20%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%8D%A2%E6%AF%94%E5%A5%A5%E6%8E%A5%E5%BE%85%E5%90%8C%E8%A1%8C%EF%BC%8C%E5%9B%A0%E5%86%B2%E7%AA%81%E8%92%99%E4%B8%8A%E9%98%B4%E5%BD%B1",
-      "pubDate": "2026-10-30T17:00:21+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "路透：中共二十届五中全会创开除党籍和缺席人数之最",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261030-%E8%B7%AF%E9%80%8F-%E4%B8%AD%E5%85%B1%E4%BA%8C%E5%8D%81%E5%B1%8A%E4%BA%94%E4%B8%AD%E5%85%A8%E4%BC%9A%E5%88%9B%E5%BC%80%E9%99%A4%E5%85%9A%E7%B1%8D%E5%92%8C%E7%BC%BA%E5%B8%AD%E4%BA%BA%E6%95%B0%E4%B9%8B%E6%9C%80",
-      "pubDate": "2026-10-30T16:17:51+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国正在一航母面积大小的岛屿上 建造一座可移动海上巨型实验室",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261030-%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%9C%A8%E4%B8%80%E8%88%AA%E6%AF%8D%E9%9D%A2%E7%A7%AF%E7%9A%84%E5%B2%9B%E5%B1%BF%E4%B8%8A-%E5%BB%BA%E9%80%A0%E4%B8%80%E5%BA%A7%E5%8F%AF%E7%A7%BB%E5%8A%A8%E6%B5%B7%E4%B8%8A%E5%B7%A8%E5%9E%8B%E5%AE%9E%E9%AA%8C%E5%AE%A4",
-      "pubDate": "2026-10-30T15:47:57+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
+    {
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "pubDate": "2026-10-31T13:25:10+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "link": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "pubDate": "2026-10-31T12:32:10+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "link": "https://nullprogram.com/blog/2026/10/31/",
+      "pubDate": "2026-10-31T11:54:59+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shiny Object Syndrome",
+      "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "pubDate": "2026-10-31T11:02:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "pubDate": "2026-10-31T10:30:11+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "pubDate": "2026-10-31T10:23:41+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "pubDate": "2026-10-31T10:21:30+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "link": "https://xoranth.net/gcc-switch/",
+      "pubDate": "2026-10-31T08:02:26+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Digital Minimalism",
+      "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "pubDate": "2026-10-31T06:16:36+00:00",
+      "source": "Hacker News"
+    },
     {
       "title": "Tell HN: Scribd Breached",
       "link": "https://news.ycombinator.com/item?id=50312756",
@@ -84,18 +138,6 @@
       "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
       "link": "https://tng.episodle.com/",
       "pubDate": "2026-10-30T23:51:24+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "link": "https://www.firezone.dev/blog/introducing-sanstun",
-      "pubDate": "2026-10-30T21:30:00+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-      "link": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-      "pubDate": "2026-10-30T20:23:30+00:00",
       "source": "Hacker News"
     },
     {
@@ -103,51 +145,51 @@
       "link": "https://blue-continuum.com/verne-paris",
       "pubDate": "2026-10-30T19:55:10+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "The oldest ice disappears and the Stone Age emerges from it",
-      "link": "https://www.sciencenorway.no/archaeology-climate-culture/the-oldest-ice-is-disappearing-the-stone-age-is-emerging-from-the-melting-ice/2713921",
-      "pubDate": "2026-10-30T19:51:33+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Infinite Mac: BeOS",
-      "link": "https://blog.persistent.info/2026/10/infinite-mac-beos.html",
-      "pubDate": "2026-10-30T19:30:09+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "link": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
-      "pubDate": "2026-10-30T17:25:15+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: A working Nintendo in ~1GB of Qwen weights",
-      "link": "https://github.com/dbreunig/nesformer",
-      "pubDate": "2026-10-30T16:40:22+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "AI isn't replacing SREs, it's deskilling them",
-      "link": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-      "pubDate": "2026-10-30T15:52:18+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Florilegium: Procedural Flowers in LaTeX",
-      "link": "https://github.com/kevinraymond/florilegium",
-      "pubDate": "2026-10-30T15:48:12+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The federated code forge",
-      "link": "https://tangled.org/blog/forge/",
-      "pubDate": "2026-10-30T15:44:29+00:00",
-      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "万圣节之夜，法国迎来第三轮抗议活动，预计至少35万人参加",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261031-%E4%B8%87%E5%9C%A3%E8%8A%82%E4%B9%8B%E5%A4%9C%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%EF%BC%8C%E9%A2%84%E8%AE%A1%E8%87%B3%E5%B0%9135%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0",
+      "pubDate": "2026-10-31T12:57:39+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "姆巴佩迷因风波被指「冒犯民族情感」遭中国封杀、引网友众怒都因「毛泽东热」？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261031-%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%B7%E5%9B%A0%E9%A3%8E%E6%B3%A2%E8%A2%AB%E6%8C%87-%E5%86%92%E7%8A%AF%E6%B0%91%E6%97%8F%E6%83%85%E6%84%9F-%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80-%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BC%97%E6%80%92%E9%83%BD%E5%9B%A0-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%83%AD",
+      "pubDate": "2026-10-31T12:20:06+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "“梅拉尼娅应获诺贝尔和平奖” ：赫尔松在72小时停火中暂获安宁",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261031-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%92%8C%E5%B9%B3%E8%AF%BA%E5%A5%96-%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%81%9C%E7%81%AB%E4%B8%AD%E6%9A%82%E8%8E%B7%E5%AE%89%E5%AE%81",
+      "pubDate": "2026-10-31T12:13:22+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "台北市长辩论：蒋万安猛攻批评对手 沈伯洋称辩论应为展现立场与讨论市政议题",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261031-%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E8%BE%A9%E8%AE%BA-%E8%92%8B%E4%B8%87%E5%AE%89%E7%8C%9B%E6%94%BB%E6%89%B9%E8%AF%84%E5%AF%B9%E6%89%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A7%B0%E8%BE%A9%E8%AE%BA%E5%BA%94%E4%B8%BA%E5%B1%95%E7%8E%B0%E7%AB%8B%E5%9C%BA%E4%B8%8E%E8%AE%A8%E8%AE%BA%E5%B8%82%E6%94%BF%E8%AE%AE%E9%A2%98",
+      "pubDate": "2026-10-31T10:37:58+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "日俄外长时隔五年会谈  日本要求释放日本记者",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%97%A5%E4%BF%84%E5%A4%96%E9%95%BF%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E8%A6%81%E6%B1%82%E9%87%8A%E6%94%BE%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85",
+      "pubDate": "2026-10-31T10:30:48+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "多家科技巨头向媒体承诺：将出台新方案，禁止抓取新闻内容用以训练AI模型",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261031-%E5%A4%9A%E5%AE%B6%E7%A7%91%E6%8A%80%E5%B7%A8%E5%A4%B4%E5%90%91%E5%AA%92%E4%BD%93%E6%89%BF%E8%AF%BA-%E5%B0%86%E5%87%BA%E5%8F%B0%E6%96%B0%E6%96%B9%E6%A1%88%EF%BC%8C%E7%A6%81%E6%AD%A2%E6%8A%93%E5%8F%96%E6%96%B0%E9%97%BB%E5%86%85%E5%AE%B9%E7%94%A8%E4%BB%A5%E8%AE%AD%E7%BB%83ai%E6%A8%A1%E5%9E%8B",
+      "pubDate": "2026-10-31T09:00:07+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "美国以国安为由 计划禁止中国电信企业直接接入美国电话号码",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E4%BB%A5%E5%9B%BD%E5%AE%89%E4%B8%BA%E7%94%B1-%E8%AE%A1%E5%88%92%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1%E4%BC%81%E4%B8%9A%E7%9B%B4%E6%8E%A5%E6%8E%A5%E5%85%A5%E7%BE%8E%E5%9B%BD%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81",
+      "pubDate": "2026-10-31T08:49:58+00:00",
+      "source": "RFI经济"
+    },
     {
       "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
       "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
@@ -176,125 +218,83 @@
       "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
       "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
       "pubDate": "2026-10-30T23:21:23+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "pubDate": "2026-10-30T22:56:13+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "美国中期选举：被问是不是吃不消了后，特朗普把取消的堪萨斯州和爱荷华州的活动又恢复了",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261030-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%B8%8D%E6%B6%88%E4%BA%86%E5%90%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E5%8F%96%E6%B6%88%E7%9A%84%E5%A0%AA%E8%90%A8%E6%96%AF%E5%B7%9E%E5%92%8C%E7%88%B1%E8%8D%B7%E5%8D%8E%E5%B7%9E%E7%9A%84%E6%B4%BB%E5%8A%A8%E5%8F%88%E6%81%A2%E5%A4%8D%E4%BA%86",
-      "pubDate": "2026-10-30T22:45:44+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "欧盟与加拿大周五宣布建立联盟， 对付特朗普对美国和传统伙伴关系的破坏",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%91%A8%E4%BA%94%E5%AE%A3%E5%B8%83%E5%BB%BA%E7%AB%8B%E8%81%94%E7%9B%9F%EF%BC%8C-%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%A0%E7%BB%9F%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%B4%E5%9D%8F",
-      "pubDate": "2026-10-30T22:36:28+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "法国经济“陷入停滞”，让预算形势更趋复杂",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-%EF%BC%8C%E8%AE%A9%E9%A2%84%E7%AE%97%E5%BD%A2%E5%8A%BF%E6%9B%B4%E8%B6%8B%E5%A4%8D%E6%9D%82",
-      "pubDate": "2026-10-30T22:30:42+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "法国正严阵以待，准备迎接第三波周末抗议活动",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E6%AD%A3%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85%EF%BC%8C%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%91%A8%E6%9C%AB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8",
-      "pubDate": "2026-10-30T22:27:35+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "Intel’s stock crashes, knocking $12B from government’s stake",
-      "link": "https://techcrunch.com/2026/10/30/intels-stock-crashes-knocking-12b-from-governments-stake/",
-      "pubDate": "2026-10-30T21:54:34+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "link": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
-      "pubDate": "2026-10-30T21:52:03+00:00",
       "source": "TechCrunch"
     }
   ],
   "trending": [
     {
-      "title": "Pile-ins, payouts, and pacing pressure: the investors behind the VCs open up",
-      "link": "https://techcrunch.com/2026/10/30/pile-ins-payouts-and-pacing-pressure-the-investors-behind-the-vcs-open-up/",
-      "pubDate": "2026-10-31T04:16:50+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Tell HN: Scribd Breached",
-      "link": "https://news.ycombinator.com/item?id=50312756",
-      "pubDate": "2026-10-31T02:46:36+00:00",
+      "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+      "link": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+      "pubDate": "2026-10-31T13:25:10+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "link": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
-      "pubDate": "2026-10-31T01:20:05+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "习近平不断发起清洗，暴露出他对中国共产党的不满与失望",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261031-%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%B8%8D%E6%96%AD%E5%8F%91%E8%B5%B7%E6%B8%85%E6%B4%97%EF%BC%8C%E6%9A%B4%E9%9C%B2%E5%87%BA%E4%BB%96%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%9A%84%E4%B8%8D%E6%BB%A1%E4%B8%8E%E5%A4%B1%E6%9C%9B",
-      "pubDate": "2026-10-31T00:36:19+00:00",
+      "title": "万圣节之夜，法国迎来第三轮抗议活动，预计至少35万人参加",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261031-%E4%B8%87%E5%9C%A3%E8%8A%82%E4%B9%8B%E5%A4%9C%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%EF%BC%8C%E9%A2%84%E8%AE%A1%E8%87%B3%E5%B0%9135%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0",
+      "pubDate": "2026-10-31T12:57:39+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "欧洲港口码头工人罢工，反对港口越来越军事化",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E6%AC%A7%E6%B4%B2%E6%B8%AF%E5%8F%A3%E7%A0%81%E5%A4%B4%E5%B7%A5%E4%BA%BA%E7%BD%A2%E5%B7%A5%EF%BC%8C%E5%8F%8D%E5%AF%B9%E6%B8%AF%E5%8F%A3%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%86%9B%E4%BA%8B%E5%8C%96",
-      "pubDate": "2026-10-31T00:34:06+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
-      "link": "https://tng.episodle.com/",
-      "pubDate": "2026-10-30T23:51:24+00:00",
+      "title": "Why Anthropic's Filing Crushed Tech Stocks",
+      "link": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+      "pubDate": "2026-10-31T12:32:10+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Salesforce’s M&A spree continues with a reported $375M deal for defense tech startup Rune",
-      "link": "https://techcrunch.com/2026/10/30/salesforces-ma-spree-continues-with-a-reported-375m-deal-for-defense-tech-startup-rune/",
-      "pubDate": "2026-10-30T23:21:23+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Ollie, a privacy-focused AI assistant, is shutting down",
-      "link": "https://techcrunch.com/2026/10/30/ollie-a-privacy-focused-ai-assistant-is-shutting-down/",
-      "pubDate": "2026-10-30T22:56:13+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "美国中期选举：被问是不是吃不消了后，特朗普把取消的堪萨斯州和爱荷华州的活动又恢复了",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261030-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE-%E8%A2%AB%E9%97%AE%E6%98%AF%E4%B8%8D%E6%98%AF%E5%90%83%E4%B8%8D%E6%B6%88%E4%BA%86%E5%90%8E%EF%BC%8C%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%8A%E5%8F%96%E6%B6%88%E7%9A%84%E5%A0%AA%E8%90%A8%E6%96%AF%E5%B7%9E%E5%92%8C%E7%88%B1%E8%8D%B7%E5%8D%8E%E5%B7%9E%E7%9A%84%E6%B4%BB%E5%8A%A8%E5%8F%88%E6%81%A2%E5%A4%8D%E4%BA%86",
-      "pubDate": "2026-10-30T22:45:44+00:00",
+      "title": "姆巴佩迷因风波被指「冒犯民族情感」遭中国封杀、引网友众怒都因「毛泽东热」？",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261031-%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%B7%E5%9B%A0%E9%A3%8E%E6%B3%A2%E8%A2%AB%E6%8C%87-%E5%86%92%E7%8A%AF%E6%B0%91%E6%97%8F%E6%83%85%E6%84%9F-%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80-%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BC%97%E6%80%92%E9%83%BD%E5%9B%A0-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%83%AD",
+      "pubDate": "2026-10-31T12:20:06+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "欧盟与加拿大周五宣布建立联盟， 对付特朗普对美国和传统伙伴关系的破坏",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261030-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%91%A8%E4%BA%94%E5%AE%A3%E5%B8%83%E5%BB%BA%E7%AB%8B%E8%81%94%E7%9B%9F%EF%BC%8C-%E5%AF%B9%E4%BB%98%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%A0%E7%BB%9F%E4%BC%99%E4%BC%B4%E5%85%B3%E7%B3%BB%E7%9A%84%E7%A0%B4%E5%9D%8F",
-      "pubDate": "2026-10-30T22:36:28+00:00",
+      "title": "“梅拉尼娅应获诺贝尔和平奖” ：赫尔松在72小时停火中暂获安宁",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261031-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%92%8C%E5%B9%B3%E8%AF%BA%E5%A5%96-%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%81%9C%E7%81%AB%E4%B8%AD%E6%9A%82%E8%8E%B7%E5%AE%89%E5%AE%81",
+      "pubDate": "2026-10-31T12:13:22+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "法国经济“陷入停滞”，让预算形势更趋复杂",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E7%BB%8F%E6%B5%8E-%E9%99%B7%E5%85%A5%E5%81%9C%E6%BB%9E-%EF%BC%8C%E8%AE%A9%E9%A2%84%E7%AE%97%E5%BD%A2%E5%8A%BF%E6%9B%B4%E8%B6%8B%E5%A4%8D%E6%9D%82",
-      "pubDate": "2026-10-30T22:30:42+00:00",
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "link": "https://nullprogram.com/blog/2026/10/31/",
+      "pubDate": "2026-10-31T11:54:59+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Shiny Object Syndrome",
+      "link": "https://en.wikipedia.org/wiki/Shiny_object_syndrome",
+      "pubDate": "2026-10-31T11:02:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "台北市长辩论：蒋万安猛攻批评对手 沈伯洋称辩论应为展现立场与讨论市政议题",
+      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261031-%E5%8F%B0%E5%8C%97%E5%B8%82%E9%95%BF%E8%BE%A9%E8%AE%BA-%E8%92%8B%E4%B8%87%E5%AE%89%E7%8C%9B%E6%94%BB%E6%89%B9%E8%AF%84%E5%AF%B9%E6%89%8B-%E6%B2%88%E4%BC%AF%E6%B4%8B%E7%A7%B0%E8%BE%A9%E8%AE%BA%E5%BA%94%E4%B8%BA%E5%B1%95%E7%8E%B0%E7%AB%8B%E5%9C%BA%E4%B8%8E%E8%AE%A8%E8%AE%BA%E5%B8%82%E6%94%BF%E8%AE%AE%E9%A2%98",
+      "pubDate": "2026-10-31T10:37:58+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "法国正严阵以待，准备迎接第三波周末抗议活动",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261030-%E6%B3%95%E5%9B%BD%E6%AD%A3%E4%B8%A5%E9%98%B5%E4%BB%A5%E5%BE%85%EF%BC%8C%E5%87%86%E5%A4%87%E8%BF%8E%E6%8E%A5%E7%AC%AC%E4%B8%89%E6%B3%A2%E5%91%A8%E6%9C%AB%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8",
-      "pubDate": "2026-10-30T22:27:35+00:00",
+      "title": "日俄外长时隔五年会谈  日本要求释放日本记者",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%97%A5%E4%BF%84%E5%A4%96%E9%95%BF%E6%97%B6%E9%9A%94%E4%BA%94%E5%B9%B4%E4%BC%9A%E8%B0%88-%E6%97%A5%E6%9C%AC%E8%A6%81%E6%B1%82%E9%87%8A%E6%94%BE%E6%97%A5%E6%9C%AC%E8%AE%B0%E8%80%85",
+      "pubDate": "2026-10-31T10:30:48+00:00",
       "source": "法国国际广播电台"
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "link": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "pubDate": "2026-10-31T10:30:11+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
+      "link": "https://piefed.world/post/1503394",
+      "pubDate": "2026-10-31T10:23:41+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "link": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "pubDate": "2026-10-31T10:21:30+00:00",
+      "source": "Hacker News"
     }
   ],
-  "generatedAt": "2026-10-31T07:38:20.422864+00:00",
+  "generatedAt": "2026-10-31T13:57:09.145153+00:00",
   "sourceCount": 4
 }
