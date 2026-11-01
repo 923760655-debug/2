@@ -1,6 +1,24 @@
 {
   "world": [
     {
+      "title": "美国国务卿卢比奥与俄罗斯外长拉夫罗夫讨论了特朗普和普京下个月进行互动的可能",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E8%AE%A8%E8%AE%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%B8%AA%E6%9C%88%E8%BF%9B%E8%A1%8C%E4%BA%92%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%83%BD",
+      "pubDate": "2026-10-31T22:30:23+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "中期选举前，美国承认20国集团外长会议在达成共识方面存在困难",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AE%A420%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%9C%A8%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86%E6%96%B9%E9%9D%A2%E5%AD%98%E5%9C%A8%E5%9B%B0%E9%9A%BE",
+      "pubDate": "2026-10-31T22:25:14+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "法国32万人参与第三轮示威，抗议期间发生了冲突",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261031-%E6%B3%95%E5%9B%BD32%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E7%A4%BA%E5%A8%81%EF%BC%8C%E6%8A%97%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%86%B2%E7%AA%81",
+      "pubDate": "2026-10-31T22:19:29+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "德国青年抗议活动    多个城市出现骚乱",
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E5%BE%B7%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E9%AA%9A%E4%B9%B1",
       "pubDate": "2026-10-31T21:11:09+00:00",
@@ -53,31 +71,37 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261031-%E4%B8%87%E5%9C%A3%E8%8A%82%E4%B9%8B%E5%A4%9C%EF%BC%8C%E6%B3%95%E5%9B%BD%E8%BF%8E%E6%9D%A5%E7%AC%AC%E4%B8%89%E8%BD%AE%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8%EF%BC%8C%E9%A2%84%E8%AE%A1%E8%87%B3%E5%B0%9135%E4%B8%87%E4%BA%BA%E5%8F%82%E5%8A%A0",
       "pubDate": "2026-10-31T12:57:39+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "姆巴佩迷因风波被指「冒犯民族情感」遭中国封杀、引网友众怒都因「毛泽东热」？",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261031-%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%BF%B7%E5%9B%A0%E9%A3%8E%E6%B3%A2%E8%A2%AB%E6%8C%87-%E5%86%92%E7%8A%AF%E6%B0%91%E6%97%8F%E6%83%85%E6%84%9F-%E9%81%AD%E4%B8%AD%E5%9B%BD%E5%B0%81%E6%9D%80-%E5%BC%95%E7%BD%91%E5%8F%8B%E4%BC%97%E6%80%92%E9%83%BD%E5%9B%A0-%E6%AF%9B%E6%B3%BD%E4%B8%9C%E7%83%AD",
-      "pubDate": "2026-10-31T12:20:06+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "“梅拉尼娅应获诺贝尔和平奖” ：赫尔松在72小时停火中暂获安宁",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E6%8A%A5%E7%BA%B8%E6%91%98%E8%A6%81/20261031-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%92%8C%E5%B9%B3%E8%AF%BA%E5%A5%96-%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%81%9C%E7%81%AB%E4%B8%AD%E6%9A%82%E8%8E%B7%E5%AE%89%E5%AE%81",
-      "pubDate": "2026-10-31T12:13:22+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "“梅拉尼娅应获诺贝尔和平奖” ：赫尔松在72小时停火中暂获安宁",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%A2%85%E6%8B%89%E5%B0%BC%E5%A8%85%E5%BA%94%E8%AF%A5%E8%8E%B7%E5%92%8C%E5%B9%B3%E8%AF%BA%E5%A5%96-%E8%B5%AB%E5%B0%94%E6%9D%BE%E5%9C%A872%E5%B0%8F%E6%97%B6%E5%81%9C%E7%81%AB%E4%B8%AD%E6%9A%82%E8%8E%B7%E5%AE%89%E5%AE%81",
-      "pubDate": "2026-10-31T12:09:42+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
     {
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-      "pubDate": "2026-10-31T21:07:58+00:00",
+      "title": "When electric cars were for women",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "pubDate": "2026-10-31T23:08:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Altoids Project",
+      "link": "https://uvdn7.github.io/altoids-project/",
+      "pubDate": "2026-10-31T22:54:55+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "pubDate": "2026-10-31T22:46:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "pubDate": "2026-10-31T22:41:06+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "pubDate": "2026-10-31T21:50:13+00:00",
       "source": "Hacker News"
     },
     {
@@ -121,33 +145,27 @@
       "link": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
       "pubDate": "2026-10-31T19:16:30+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "The Duty of a Scholar",
-      "link": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
-      "pubDate": "2026-10-31T19:07:36+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "link": "https://ryanmadden.net/gpt-56-beats-factorio/",
-      "pubDate": "2026-10-31T18:50:34+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "It's the Memory Latency, Stupid",
-      "link": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
-      "pubDate": "2026-10-31T18:38:16+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "I post trained a model on Demoscenes",
-      "link": "https://datavorous.com/writing/demoscener/",
-      "pubDate": "2026-10-31T18:08:24+00:00",
-      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "美国国务卿卢比奥与俄罗斯外长拉夫罗夫讨论了特朗普和普京下个月进行互动的可能",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E8%AE%A8%E8%AE%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%B8%AA%E6%9C%88%E8%BF%9B%E8%A1%8C%E4%BA%92%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%83%BD",
+      "pubDate": "2026-10-31T22:30:23+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "中期选举前，美国承认20国集团外长会议在达成共识方面存在困难",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AE%A420%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%9C%A8%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86%E6%96%B9%E9%9D%A2%E5%AD%98%E5%9C%A8%E5%9B%B0%E9%9A%BE",
+      "pubDate": "2026-10-31T22:25:14+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "法国32万人参与第三轮示威，抗议期间发生了冲突",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261031-%E6%B3%95%E5%9B%BD32%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E7%A4%BA%E5%A8%81%EF%BC%8C%E6%8A%97%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%86%B2%E7%AA%81",
+      "pubDate": "2026-10-31T22:19:29+00:00",
+      "source": "RFI经济"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -201,27 +219,57 @@
       "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
       "pubDate": "2026-10-31T16:12:55+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
-      "link": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
-      "pubDate": "2026-10-31T15:41:57+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "中国10月制造业再跌到荣枯线下 四个月来第三次出现萎缩",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E4%B8%AD%E5%9B%BD10%E6%9C%88%E5%88%B6%E9%80%A0%E4%B8%9A%E5%86%8D%E8%B7%8C%E5%88%B0%E8%8D%A3%E6%9E%AF%E7%BA%BF%E4%B8%8B-%E5%9B%9B%E4%B8%AA%E6%9C%88%E6%9D%A5%E7%AC%AC%E4%B8%89%E6%AC%A1%E5%87%BA%E7%8E%B0%E8%90%8E%E7%BC%A9",
-      "pubDate": "2026-10-31T15:08:03+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "朝中新鸭绿江大桥开通一周后朝鲜海关出现数百辆中国货车",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E6%9C%9D%E4%B8%AD%E6%96%B0%E9%B8%AD%E7%BB%BF%E6%B1%9F%E5%A4%A7%E6%A1%A5%E5%BC%80%E9%80%9A%E4%B8%80%E5%91%A8%E5%90%8E%E6%9C%9D%E9%B2%9C%E6%B5%B7%E5%85%B3%E5%87%BA%E7%8E%B0%E6%95%B0%E7%99%BE%E8%BE%86%E4%B8%AD%E5%9B%BD%E8%B4%A7%E8%BD%A6",
-      "pubDate": "2026-10-31T14:13:38+00:00",
-      "source": "RFI经济"
     }
   ],
   "trending": [
+    {
+      "title": "When electric cars were for women",
+      "link": "https://spectrum.ieee.org/early-electric-vehicles",
+      "pubDate": "2026-10-31T23:08:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Altoids Project",
+      "link": "https://uvdn7.github.io/altoids-project/",
+      "pubDate": "2026-10-31T22:54:55+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "link": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "pubDate": "2026-10-31T22:46:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "link": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "pubDate": "2026-10-31T22:41:06+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "美国国务卿卢比奥与俄罗斯外长拉夫罗夫讨论了特朗普和普京下个月进行互动的可能",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%8A%A1%E5%8D%BF%E5%8D%A2%E6%AF%94%E5%A5%A5%E4%B8%8E%E4%BF%84%E7%BD%97%E6%96%AF%E5%A4%96%E9%95%BF%E6%8B%89%E5%A4%AB%E7%BD%97%E5%A4%AB%E8%AE%A8%E8%AE%BA%E4%BA%86%E7%89%B9%E6%9C%97%E6%99%AE%E5%92%8C%E6%99%AE%E4%BA%AC%E4%B8%8B%E4%B8%AA%E6%9C%88%E8%BF%9B%E8%A1%8C%E4%BA%92%E5%8A%A8%E7%9A%84%E5%8F%AF%E8%83%BD",
+      "pubDate": "2026-10-31T22:30:23+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "中期选举前，美国承认20国集团外长会议在达成共识方面存在困难",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261031-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%EF%BC%8C%E7%BE%8E%E5%9B%BD%E6%89%BF%E8%AE%A420%E5%9B%BD%E9%9B%86%E5%9B%A2%E5%A4%96%E9%95%BF%E4%BC%9A%E8%AE%AE%E5%9C%A8%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86%E6%96%B9%E9%9D%A2%E5%AD%98%E5%9C%A8%E5%9B%B0%E9%9A%BE",
+      "pubDate": "2026-10-31T22:25:14+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "法国32万人参与第三轮示威，抗议期间发生了冲突",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261031-%E6%B3%95%E5%9B%BD32%E4%B8%87%E4%BA%BA%E5%8F%82%E4%B8%8E%E7%AC%AC%E4%B8%89%E8%BD%AE%E7%A4%BA%E5%A8%81%EF%BC%8C%E6%8A%97%E8%AE%AE%E6%9C%9F%E9%97%B4%E5%8F%91%E7%94%9F%E4%BA%86%E5%86%B2%E7%AA%81",
+      "pubDate": "2026-10-31T22:19:29+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "AI text watermarking and quality loss",
+      "link": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+      "pubDate": "2026-10-31T21:50:13+00:00",
+      "source": "Hacker News"
+    },
     {
       "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
       "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
@@ -245,56 +293,8 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261031-%E5%BE%B7%E5%9B%BD%E9%9D%92%E5%B9%B4%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%A8-%E5%A4%9A%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%87%BA%E7%8E%B0%E9%AA%9A%E4%B9%B1",
       "pubDate": "2026-10-31T21:11:09+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "Anthropic takes steps to block Claude from reverse-engineering video games",
-      "link": "https://mashable.com/tech/anthropic-takes-steps-to-block-video-game-cloning-and-reverse-engineering",
-      "pubDate": "2026-10-31T21:07:58+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Distributed Proofreaders",
-      "link": "https://www.pgdp.net/c/",
-      "pubDate": "2026-10-31T20:56:12+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "link": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
-      "pubDate": "2026-10-31T20:46:39+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "四方安全对话外长联合声明　未点名剑指中国经济政策",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261031-%E5%9B%9B%E6%96%B9%E5%AE%89%E5%85%A8%E5%AF%B9%E8%AF%9D%E5%A4%96%E9%95%BF%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E-%E6%9C%AA%E7%82%B9%E5%90%8D%E5%89%91%E6%8C%87%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E6%94%BF%E7%AD%96",
-      "pubDate": "2026-10-31T20:04:29+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Surviving \"The Graduate\"",
-      "link": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
-      "pubDate": "2026-10-31T20:02:06+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "HackerTube: YouTube built from videos recommended by HN",
-      "link": "https://karpathy.bearblog.dev/hacker-tube/",
-      "pubDate": "2026-10-31T19:56:53+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Anthropic blocks users for anything touching training larger models",
-      "link": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
-      "pubDate": "2026-10-31T19:39:19+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: NES Contra (1987) port (ASM –> C and then C –> WebAssembly)",
-      "link": "https://epoyraz.github.io/nes-contra-us/",
-      "pubDate": "2026-10-31T19:18:48+00:00",
-      "source": "Hacker News"
     }
   ],
-  "generatedAt": "2026-10-31T21:59:19.534171+00:00",
+  "generatedAt": "2026-11-01T00:43:10.396171+00:00",
   "sourceCount": 4
 }
