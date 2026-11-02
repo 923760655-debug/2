@@ -75,9 +75,21 @@
   ],
   "tech": [
     {
-      "title": "John Leeson (the voice of K9) has died",
-      "link": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "pubDate": "2026-11-01T20:48:04+00:00",
+      "title": "America on Data Centers: listen to 10,000+ city council comments",
+      "link": "https://www.americansentiment.com/datacenters",
+      "pubDate": "2026-11-02T00:17:33+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OccupySaaS",
+      "link": "https://occupysaas.com/",
+      "pubDate": "2026-11-02T00:17:27+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "pubDate": "2026-11-01T22:10:45+00:00",
       "source": "Hacker News"
     },
     {
@@ -117,12 +129,6 @@
       "source": "Hacker News"
     },
     {
-      "title": "Landline phones will switch off across Britland in 100 days, no extensions",
-      "link": "https://www.theregister.com/networks/2026/11/01/landline-phones-will-switch-off-across-britland-in-100-days-no-extensions-openreach/5306673",
-      "pubDate": "2026-11-01T15:33:49+00:00",
-      "source": "Hacker News"
-    },
-    {
       "title": "Lenovo's 'encrypted' fingerprint USB is just an unencrypted SD card in a case",
       "link": "https://www.reddit.com/r/technology/comments/1xl2pr3/lenovos_encrypted_fingerprint_usb_drive_is_just/",
       "pubDate": "2026-11-01T14:34:43+00:00",
@@ -138,12 +144,6 @@
       "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
       "link": "https://arxiv.org/abs/2610.39302",
       "pubDate": "2026-11-01T13:24:49+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: OmniDiff – Opensource, super fast, content aware Git difftool, in Rust",
-      "link": "https://github.com/ivankovic/omnidiff",
-      "pubDate": "2026-11-01T13:02:30+00:00",
       "source": "Hacker News"
     }
   ],
@@ -223,6 +223,24 @@
   ],
   "trending": [
     {
+      "title": "America on Data Centers: listen to 10,000+ city council comments",
+      "link": "https://www.americansentiment.com/datacenters",
+      "pubDate": "2026-11-02T00:17:33+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "OccupySaaS",
+      "link": "https://occupysaas.com/",
+      "pubDate": "2026-11-02T00:17:27+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+      "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "pubDate": "2026-11-01T22:10:45+00:00",
+      "source": "Hacker News"
+    },
+    {
       "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
       "pubDate": "2026-11-01T21:55:23+00:00",
@@ -265,12 +283,6 @@
       "source": "TechCrunch"
     },
     {
-      "title": "John Leeson (the voice of K9) has died",
-      "link": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
-      "pubDate": "2026-11-01T20:48:04+00:00",
-      "source": "Hacker News"
-    },
-    {
       "title": "Ask HN: Which TV do you recommend for privacy?",
       "link": "https://news.ycombinator.com/item?id=50328896",
       "pubDate": "2026-11-01T19:35:27+00:00",
@@ -281,20 +293,8 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261101-%E5%A7%86%E5%B7%B4%E4%BD%A9%E9%A3%8E%E6%B3%A2%E5%BB%B6%E7%BB%AD%EF%BC%8C%E5%A4%AE%E8%A7%86%E6%9A%82%E5%81%9C%E8%BD%AC%E6%92%AD%E7%9A%87%E5%AE%B6%E9%A9%AC%E5%BE%B7%E9%87%8C%E6%AF%94%E8%B5%9B",
       "pubDate": "2026-11-01T18:57:03+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "青年和平示威活动之后是骚乱",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261101-%E9%9D%92%E5%B9%B4%E5%92%8C%E5%B9%B3%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8%E4%B9%8B%E5%90%8E%E6%98%AF%E9%AA%9A%E4%B9%B1",
-      "pubDate": "2026-11-01T18:39:32+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Mathematics has changed. Let's act like it",
-      "link": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
-      "pubDate": "2026-11-01T18:28:42+00:00",
-      "source": "Hacker News"
     }
   ],
-  "generatedAt": "2026-11-01T22:30:01.163095+00:00",
+  "generatedAt": "2026-11-02T01:56:47.408237+00:00",
   "sourceCount": 4
 }
