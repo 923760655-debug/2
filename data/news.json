@@ -73,8 +73,93 @@
       "source": "法国国际广播电台"
     }
   ],
-  "tech": [],
+  "tech": [
+    {
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "link": "https://www.altera.com/newsroom/agilex-2x",
+      "pubDate": "2026-11-05T05:47:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lemmings CSS Animation",
+      "link": "https://markblah.github.io/lemmings/",
+      "pubDate": "2026-11-05T04:54:10+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "link": "https://www.spacex.com/starfall",
+      "pubDate": "2026-11-05T00:18:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "pubDate": "2026-11-04T23:35:44+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "pubDate": "2026-11-04T23:33:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "pubDate": "2026-11-04T22:01:49+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Residential proxies detected on White House network",
+      "link": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "pubDate": "2026-11-04T20:45:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+      "link": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+      "pubDate": "2026-11-04T19:55:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "link": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "pubDate": "2026-11-04T19:50:23+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "link": "https://www.ricursive.com/ripple",
+      "pubDate": "2026-11-04T18:53:29+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: After a decade of reversing, I got co-op working in DOS Wing Commander",
+      "link": "https://fireflyk64.github.io/wcmulti/",
+      "pubDate": "2026-11-04T18:51:27+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Conductor is joining Meta",
+      "link": "https://www.conductor.build/announcement",
+      "pubDate": "2026-11-04T18:22:40+00:00",
+      "source": "Hacker News"
+    }
+  ],
   "finance": [
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "pubDate": "2026-11-05T01:26:22+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "pubDate": "2026-11-05T01:02:14+00:00",
+      "source": "TechCrunch"
+    },
     {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
@@ -133,23 +218,53 @@
       "title": "法国一家银行遭遇网络攻击，涉案金额约1亿欧元",
       "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83",
       "pubDate": "2026-11-04T20:52:03+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "德国《商报》：反对特朗普主义的人民起义",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
-      "pubDate": "2026-11-04T20:49:34+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "打伊朗与期中选举落败 被战争部长撤职的女中将当选民主党众议员",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261104-%E6%89%93%E4%BC%8A%E6%9C%97%E4%B8%8E%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E8%90%BD%E8%B4%A5-%E8%A2%AB%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF%E6%92%A4%E8%81%8C%E7%9A%84%E5%A5%B3%E4%B8%AD%E5%B0%86%E5%BD%93%E9%80%89%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BC%97%E8%AE%AE%E5%91%98",
-      "pubDate": "2026-11-04T20:37:22+00:00",
       "source": "RFI经济"
     }
   ],
   "trending": [
     {
+      "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+      "link": "https://www.altera.com/newsroom/agilex-2x",
+      "pubDate": "2026-11-05T05:47:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Lemmings CSS Animation",
+      "link": "https://markblah.github.io/lemmings/",
+      "pubDate": "2026-11-05T04:54:10+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "link": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "pubDate": "2026-11-05T01:26:22+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "After the midterms, a bigger clash over data centers could be coming",
+      "link": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming/",
+      "pubDate": "2026-11-05T01:02:14+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Starfall – Affordable, routine access to microgravity",
+      "link": "https://www.spacex.com/starfall",
+      "pubDate": "2026-11-05T00:18:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Images 2.6",
+      "link": "https://openai.com/index/introducing-images-2-6/",
+      "pubDate": "2026-11-04T23:35:44+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "link": "https://openai.com/index/a-thousand-fewer-paths-to-root/",
+      "pubDate": "2026-11-04T23:33:14+00:00",
+      "source": "Hacker News"
+    },
+    {
       "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
       "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
       "pubDate": "2026-11-04T22:45:09+00:00",
@@ -168,60 +283,18 @@
       "source": "TechCrunch"
     },
     {
+      "title": "Hacking the Xbox 360 Hypervisor Part 3: Bad Update Improvements",
+      "link": "https://icode4.coffee/?p=1746",
+      "pubDate": "2026-11-04T22:01:49+00:00",
+      "source": "Hacker News"
+    },
+    {
       "title": "Almost no one uses AI agents to book their Uber, company says",
       "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
       "pubDate": "2026-11-04T21:56:01+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "Snapchat surpasses 30M paid subscribers",
-      "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
-      "pubDate": "2026-11-04T21:49:29+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "伊朗嘲讽特朗普在德州实现了政权更迭",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E4%BC%8A%E6%9C%97%E5%98%B2%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD",
-      "pubDate": "2026-11-04T21:45:31+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国",
-      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-%E6%AC%A7%E6%B4%B2%E5%B0%86%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%845-25%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD",
-      "pubDate": "2026-11-04T21:42:01+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "OpenAI is already trying to shape the 2028 election",
-      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
-      "pubDate": "2026-11-04T21:25:44+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Meta acquires AI coding startup Conductor",
-      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
-      "pubDate": "2026-11-04T21:10:56+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "法国一家银行遭遇网络攻击，涉案金额约1亿欧元",
-      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83",
-      "pubDate": "2026-11-04T20:52:03+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "德国《商报》：反对特朗普主义的人民起义",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
-      "pubDate": "2026-11-04T20:49:34+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "打伊朗与期中选举落败 被战争部长撤职的女中将当选民主党众议员",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261104-%E6%89%93%E4%BC%8A%E6%9C%97%E4%B8%8E%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E8%90%BD%E8%B4%A5-%E8%A2%AB%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF%E6%92%A4%E8%81%8C%E7%9A%84%E5%A5%B3%E4%B8%AD%E5%B0%86%E5%BD%93%E9%80%89%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BC%97%E8%AE%AE%E5%91%98",
-      "pubDate": "2026-11-04T20:37:22+00:00",
-      "source": "法国国际广播电台"
     }
   ],
-  "generatedAt": "2026-11-05T00:00:16.841436+00:00",
-  "sourceCount": 3
+  "generatedAt": "2026-11-05T07:28:41.611617+00:00",
+  "sourceCount": 4
 }
