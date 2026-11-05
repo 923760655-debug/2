@@ -1,300 +1,227 @@
 {
   "world": [
     {
+      "title": "法新社：惨败后特朗普却表现得若无其事，仿佛什么都没有发生",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%B3%95%E6%96%B0%E7%A4%BE-%E6%83%A8%E8%B4%A5%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%B4%E8%A1%A8%E7%8E%B0%E5%BE%97%E8%8B%A5%E6%97%A0%E5%85%B6%E4%BA%8B%EF%BC%8C%E4%BB%BF%E4%BD%9B%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E6%9C%89%E5%8F%91%E7%94%9F",
+      "pubDate": "2026-11-04T22:22:15+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "伊朗嘲讽特朗普在德州实现了政权更迭",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E4%BC%8A%E6%9C%97%E5%98%B2%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD",
+      "pubDate": "2026-11-04T21:45:31+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-%E6%AC%A7%E6%B4%B2%E5%B0%86%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%845-25%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD",
+      "pubDate": "2026-11-04T21:42:01+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "法国一家银行遭遇网络攻击，涉案金额约1亿欧元",
+      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "pubDate": "2026-11-04T20:52:03+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "德国《商报》：反对特朗普主义的人民起义",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
+      "pubDate": "2026-11-04T20:49:34+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "打伊朗与期中选举落败 被战争部长撤职的女中将当选民主党众议员",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261104-%E6%89%93%E4%BC%8A%E6%9C%97%E4%B8%8E%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E8%90%BD%E8%B4%A5-%E8%A2%AB%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF%E6%92%A4%E8%81%8C%E7%9A%84%E5%A5%B3%E4%B8%AD%E5%B0%86%E5%BD%93%E9%80%89%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BC%97%E8%AE%AE%E5%91%98",
+      "pubDate": "2026-11-04T20:37:22+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "欧盟议员要求评估比亚迪的国安风险，比亚迪承诺无法从中国远程访问车辆内部数据",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%AC%A7%E7%9B%9F%E8%AE%AE%E5%91%98%E8%A6%81%E6%B1%82%E8%AF%84%E4%BC%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%9A%84%E5%9B%BD%E5%AE%89%E9%A3%8E%E9%99%A9%EF%BC%8C%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%89%BF%E8%AF%BA%E6%97%A0%E6%B3%95%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BF%9C%E7%A8%8B%E8%AE%BF%E9%97%AE%E8%BD%A6%E8%BE%86%E5%86%85%E9%83%A8%E6%95%B0%E6%8D%AE",
+      "pubDate": "2026-11-04T19:55:01+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "法国周四将继续举行罢工及示威活动，当局部署约7万名警力",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%B3%95%E5%9B%BD%E5%91%A8%E5%9B%9B%E5%B0%86%E7%BB%A7%E7%BB%AD%E4%B8%BE%E8%A1%8C%E7%BD%A2%E5%B7%A5%E5%8F%8A%E7%A4%BA%E5%A8%81%E6%B4%BB%E5%8A%A8%EF%BC%8C%E5%BD%93%E5%B1%80%E9%83%A8%E7%BD%B2%E7%BA%A67%E4%B8%87%E5%90%8D%E8%AD%A6%E5%8A%9B",
+      "pubDate": "2026-11-04T19:15:29+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美国期中选举结果综述：民主党大反攻 多个传统红州转蓝",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E7%BE%8E%E5%9B%BD%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E7%BB%93%E6%9E%9C%E7%BB%BC%E8%BF%B0-%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%A7%E5%8F%8D%E6%94%BB-%E5%A4%9A%E4%B8%AA%E4%BC%A0%E7%BB%9F%E7%BA%A2%E5%B7%9E%E8%BD%AC%E8%93%9D",
+      "pubDate": "2026-11-04T18:46:21+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "法国多家血库遭网络攻击，但因阻止及时血浆未受损",
+      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E5%A4%9A%E5%AE%B6%E8%A1%80%E5%BA%93%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E4%BD%86%E5%9B%A0%E9%98%BB%E6%AD%A2%E5%8F%8A%E6%97%B6%E8%A1%80%E6%B5%86%E6%9C%AA%E5%8F%97%E6%8D%9F",
+      "pubDate": "2026-11-04T18:33:54+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "多国领导人对共和党惨败表示如释重负，俄罗斯希望特朗普继续维持现有政策",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%A4%9A%E5%9B%BD%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%AF%B9%E5%85%B1%E5%92%8C%E5%85%9A%E6%83%A8%E8%B4%A5%E8%A1%A8%E7%A4%BA%E5%A6%82%E9%87%8A%E9%87%8D%E8%B4%9F%EF%BC%8C%E4%BF%84%E7%BD%97%E6%96%AF%E5%B8%8C%E6%9C%9B%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%A7%E7%BB%AD%E7%BB%B4%E6%8C%81%E7%8E%B0%E6%9C%89%E6%94%BF%E7%AD%96",
+      "pubDate": "2026-11-04T18:23:41+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "王毅与菲外长通话促加强对少数政客约束 菲防长：若针对的是我，我只听总统的",
       "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E7%8E%8B%E6%AF%85%E4%B8%8E%E8%8F%B2%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D%E4%BF%83%E5%8A%A0%E5%BC%BA%E5%AF%B9%E5%B0%91%E6%95%B0%E6%94%BF%E5%AE%A2%E7%BA%A6%E6%9D%9F-%E8%8F%B2%E9%98%B2%E9%95%BF-%E8%8B%A5%E9%92%88%E5%AF%B9%E7%9A%84%E6%98%AF%E6%88%91%EF%BC%8C%E6%88%91%E5%8F%AA%E5%90%AC%E6%80%BB%E7%BB%9F%E7%9A%84",
       "pubDate": "2026-11-04T17:12:14+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "荷兰安世半导体起诉闻泰科技及其创始人 要求赔偿损失",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261104-%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B7%E8%AF%89%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%8F%8A%E5%85%B6%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%A6%81%E6%B1%82%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1",
-      "pubDate": "2026-11-04T16:26:28+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "特朗普主义“尚没有从美国政治版图上被抹去”",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261104-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%EF%BC%8C-%E5%B0%9A%E6%B2%A1%E6%9C%89%E4%BB%8E%E7%BE%8E%E5%9B%BD%E6%94%BF%E6%B2%BB%E7%89%88%E5%9B%BE%E4%B8%8A%E8%A2%AB%E6%8A%B9%E5%8E%BB",
-      "pubDate": "2026-11-04T16:09:16+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "希音将斥资5亿欧元扩大波兰欧洲物流枢纽，应对欧盟新收费规则",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E5%B8%8C%E9%9F%B3%E5%B0%86%E6%96%A5%E8%B5%845%E4%BA%BF%E6%AC%A7%E5%85%83%E6%89%A9%E5%A4%A7%E6%B3%A2%E5%85%B0%E6%AC%A7%E6%B4%B2%E7%89%A9%E6%B5%81%E6%9E%A2%E7%BA%BD%EF%BC%8C%E5%BA%94%E5%AF%B9%E6%AC%A7%E7%9B%9F%E6%96%B0%E6%94%B6%E8%B4%B9%E8%A7%84%E5%88%99",
-      "pubDate": "2026-11-04T16:06:11+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中期选举失利 约翰逊将不寻求在新一届国会中竞选众院少数党领袖",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9-%E7%BA%A6%E7%BF%B0%E9%80%8A%E5%B0%86%E4%B8%8D%E5%86%8D%E5%AF%BB%E6%B1%82%E8%BF%9E%E4%BB%BB%E4%BC%97%E8%AE%AE%E9%99%A2%E5%85%B1%E5%92%8C%E5%85%9A%E9%A2%86%E8%A2%96",
-      "pubDate": "2026-11-04T15:26:53+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国对盾构机出口管制措施实施在即 印部长：印度不会去乞求，将自主研发制造",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E5%AE%9E%E6%96%BD%E5%9C%A8%E5%8D%B3-%E5%8D%B0%E9%83%A8%E9%95%BF-%E5%8D%B0%E5%BA%A6%E4%B8%8D%E4%BC%9A%E5%8E%BB%E4%B9%9E%E6%B1%82%EF%BC%8C%E5%B0%86%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E5%88%B6%E9%80%A0",
-      "pubDate": "2026-11-04T15:06:41+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "台湾九合一大选｜全台第一大县、蓝绿都没把握的「摇摆县」彰化 至今仍有高达42%民众未表态",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%8F%B0%E5%8C%97%E4%B8%80%E5%91%A8/20261104-%E5%8F%B0%E6%B9%BE%E4%B9%9D%E5%90%88%E4%B8%80%E5%A4%A7%E9%80%89%EF%BD%9C%E5%85%A8%E5%8F%B0%E7%AC%AC%E4%B8%80%E5%A4%A7%E5%8E%BF-%E8%93%9D%E7%BB%BF%E9%83%BD%E6%B2%A1%E6%8A%8A%E6%8F%A1%E7%9A%84-%E6%91%87%E6%91%86%E5%8E%BF-%E5%BD%B0%E5%8C%96-%E8%87%B3%E4%BB%8A%E4%BB%8D%E6%9C%89%E9%AB%98%E8%BE%BE42-%E6%B0%91%E4%BC%97%E6%9C%AA%E8%A1%A8%E6%80%81",
-      "pubDate": "2026-11-04T14:50:40+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "非政府呼吁世卫组织修订饮用水中硝酸盐等含量标准",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E7%8E%AF%E4%BF%9D%E5%A4%A9%E5%9C%B0/20261104-%E9%9D%9E%E6%94%BF%E5%BA%9C%E5%91%BC%E5%90%81%E4%B8%96%E5%8D%AB%E7%BB%84%E7%BB%87%E4%BF%AE%E8%AE%A2%E9%A5%AE%E7%94%A8%E6%B0%B4%E4%B8%AD%E7%A1%9D%E9%85%B8%E7%9B%90%E5%90%AB%E9%87%8F%E6%A0%87%E5%87%86",
-      "pubDate": "2026-11-04T14:25:20+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "北京正强制居民在11月中旬全面禁止无人机飞行前交出无人机 否则将被视为非法行为",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261104-%E4%B8%AD%E5%9B%BD%E4%B8%AD%E5%9B%BD%E6%AD%A3%E5%BC%BA%E5%88%B6%E5%8C%97%E4%BA%AC%E5%B1%85%E6%B0%91%E5%9C%A811%E6%9C%88%E4%B8%AD%E6%97%AC%E5%85%A8%E9%9D%A2%E7%A6%81%E6%AD%A2%E6%97%A0%E4%BA%BA%E6%9C%BA%E9%A3%9E%E8%A1%8C%E5%89%8D%EF%BC%8C%E4%BA%A4%E5%87%BA%E6%97%A0%E4%BA%BA%E6%9C%BA%EF%BC%8C%E5%90%A6%E5%88%99%E5%B0%86%E8%A2%AB%E8%A7%86%E4%B8%BA%E9%9D%9E%E6%B3%95%E8%A1%8C-%E4%B8%BA",
-      "pubDate": "2026-11-04T14:17:50+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "泰国高官：法院将决定是否遣返五名自2014年起被拘的维吾尔人",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E6%B3%B0%E5%9B%BD%E9%AB%98%E5%AE%98-%E6%B3%95%E9%99%A2%E5%B0%86%E5%86%B3%E5%AE%9A%E6%98%AF%E5%90%A6%E9%81%A3%E8%BF%94%E4%BA%94%E5%90%8D%E8%87%AA2014%E5%B9%B4%E8%B5%B7%E8%A2%AB%E6%8B%98%E7%9A%84%E7%BB%B4%E5%90%BE%E5%B0%94%E4%BA%BA",
-      "pubDate": "2026-11-04T14:13:58+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "美国中期选举民主党大胜 重塑特朗普最后两年任期格局",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261104-%E7%BE%8E%E5%9B%BD%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%B0%91%E4%B8%BB%E5%85%9A%E5%A4%A7%E8%83%9C-%E9%87%8D%E5%A1%91%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E5%90%8E%E4%B8%A4%E5%B9%B4%E4%BB%BB%E6%9C%9F%E6%A0%BC%E5%B1%80",
-      "pubDate": "2026-11-04T12:58:40+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "全国政协常委王宁免职、撤销委员资格 曾任武警司令员",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261104-%E5%85%A8%E5%9B%BD%E6%94%BF%E5%8D%8F%E5%B8%B8%E5%A7%94%E7%8E%8B%E5%AE%81%E5%85%8D%E8%81%8C-%E6%92%A4%E9%94%80%E5%A7%94%E5%91%98%E8%B5%84%E6%A0%BC-%E6%9B%BE%E4%BB%BB%E6%AD%A6%E8%AD%A6%E5%8F%B8%E4%BB%A4%E5%91%98",
-      "pubDate": "2026-11-04T12:45:07+00:00",
-      "source": "法国国际广播电台"
     }
   ],
-  "tech": [
-    {
-      "title": "This Month in Ladybird – October 2026",
-      "link": "https://ladybird.org/newsletter/2026-10-31/",
-      "pubDate": "2026-11-04T17:59:35+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
-      "pubDate": "2026-11-04T17:55:29+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "link": "https://news.ycombinator.com/item?id=50368804",
-      "pubDate": "2026-11-04T17:31:53+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "link": "https://www.anthropic.com/research/provable-inference",
-      "pubDate": "2026-11-04T17:17:46+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "An end to buggy web apps",
-      "link": "https://replay.io/blog/an-end-to-buggy-web-apps",
-      "pubDate": "2026-11-04T17:01:44+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "AMD expects to outsell Intel in Q4 for the first time in history",
-      "link": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
-      "pubDate": "2026-11-04T15:38:34+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Letting users trust their own MCP clients, without opening a phishing hole",
-      "link": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
-      "pubDate": "2026-11-04T15:30:57+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Kimi K3.1 Pro model weights are out",
-      "link": "https://huggingface.co/moonshotai/Kimi-K3.1-Pro",
-      "pubDate": "2026-11-04T15:30:30+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: I built a tool that prices a prebuilt PC part by part",
-      "link": "https://pcdealcheck.com/",
-      "pubDate": "2026-11-04T15:25:33+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Evergreen: A Provably Safe Systems Language",
-      "link": "https://evergreenlang.net",
-      "pubDate": "2026-11-04T15:25:04+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Pierre Computer is being acquired by OpenAI",
-      "link": "https://twitter.com/pierrecomputer/status/2117999036175188183",
-      "pubDate": "2026-11-04T15:21:21+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Adding Window Functions to a Spreadsheet",
-      "link": "https://www.getgrist.com/blog/running-totals-you-dont-have-to-chase/",
-      "pubDate": "2026-11-04T15:21:12+00:00",
-      "source": "Hacker News"
-    }
-  ],
+  "tech": [],
   "finance": [
     {
-      "title": "Waymo confirms it will split with Uber in January 2028",
-      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
-      "pubDate": "2026-11-04T18:12:30+00:00",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "pubDate": "2026-11-04T22:45:09+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-      "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-      "pubDate": "2026-11-04T18:10:11+00:00",
+      "title": "法新社：惨败后特朗普却表现得若无其事，仿佛什么都没有发生",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%B3%95%E6%96%B0%E7%A4%BE-%E6%83%A8%E8%B4%A5%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%B4%E8%A1%A8%E7%8E%B0%E5%BE%97%E8%8B%A5%E6%97%A0%E5%85%B6%E4%BA%8B%EF%BC%8C%E4%BB%BF%E4%BD%9B%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E6%9C%89%E5%8F%91%E7%94%9F",
+      "pubDate": "2026-11-04T22:22:15+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "pubDate": "2026-11-04T22:13:16+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "王毅与菲外长通话促加强对少数政客约束 菲防长：若针对的是我，我只听总统的",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E7%8E%8B%E6%AF%85%E4%B8%8E%E8%8F%B2%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D%E4%BF%83%E5%8A%A0%E5%BC%BA%E5%AF%B9%E5%B0%91%E6%95%B0%E6%94%BF%E5%AE%A2%E7%BA%A6%E6%9D%9F-%E8%8F%B2%E9%98%B2%E9%95%BF-%E8%8B%A5%E9%92%88%E5%AF%B9%E7%9A%84%E6%98%AF%E6%88%91%EF%BC%8C%E6%88%91%E5%8F%AA%E5%90%AC%E6%80%BB%E7%BB%9F%E7%9A%84",
-      "pubDate": "2026-11-04T17:12:14+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
-      "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "pubDate": "2026-11-04T17:11:15+00:00",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "pubDate": "2026-11-04T21:56:01+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "pubDate": "2026-11-04T16:51:35+00:00",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "pubDate": "2026-11-04T21:49:29+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "荷兰安世半导体起诉闻泰科技及其创始人 要求赔偿损失",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261104-%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B7%E8%AF%89%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%8F%8A%E5%85%B6%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%A6%81%E6%B1%82%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1",
-      "pubDate": "2026-11-04T16:26:28+00:00",
+      "title": "伊朗嘲讽特朗普在德州实现了政权更迭",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E4%BC%8A%E6%9C%97%E5%98%B2%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD",
+      "pubDate": "2026-11-04T21:45:31+00:00",
       "source": "RFI经济"
     },
     {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "pubDate": "2026-11-04T16:17:22+00:00",
+      "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-%E6%AC%A7%E6%B4%B2%E5%B0%86%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%845-25%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD",
+      "pubDate": "2026-11-04T21:42:01+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "pubDate": "2026-11-04T21:25:44+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "特朗普主义“尚没有从美国政治版图上被抹去”",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261104-%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%EF%BC%8C-%E5%B0%9A%E6%B2%A1%E6%9C%89%E4%BB%8E%E7%BE%8E%E5%9B%BD%E6%94%BF%E6%B2%BB%E7%89%88%E5%9B%BE%E4%B8%8A%E8%A2%AB%E6%8A%B9%E5%8E%BB",
-      "pubDate": "2026-11-04T16:09:16+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "希音将斥资5亿欧元扩大波兰欧洲物流枢纽，应对欧盟新收费规则",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E5%B8%8C%E9%9F%B3%E5%B0%86%E6%96%A5%E8%B5%845%E4%BA%BF%E6%AC%A7%E5%85%83%E6%89%A9%E5%A4%A7%E6%B3%A2%E5%85%B0%E6%AC%A7%E6%B4%B2%E7%89%A9%E6%B5%81%E6%9E%A2%E7%BA%BD%EF%BC%8C%E5%BA%94%E5%AF%B9%E6%AC%A7%E7%9B%9F%E6%96%B0%E6%94%B6%E8%B4%B9%E8%A7%84%E5%88%99",
-      "pubDate": "2026-11-04T16:06:11+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "中期选举失利 约翰逊将不寻求在新一届国会中竞选众院少数党领袖",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9-%E7%BA%A6%E7%BF%B0%E9%80%8A%E5%B0%86%E4%B8%8D%E5%86%8D%E5%AF%BB%E6%B1%82%E8%BF%9E%E4%BB%BB%E4%BC%97%E8%AE%AE%E9%99%A2%E5%85%B1%E5%92%8C%E5%85%9A%E9%A2%86%E8%A2%96",
-      "pubDate": "2026-11-04T15:26:53+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "中国对盾构机出口管制措施实施在即 印部长：印度不会去乞求，将自主研发制造",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%9B%BE%E6%9E%84%E6%9C%BA%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E6%8E%AA%E6%96%BD%E5%AE%9E%E6%96%BD%E5%9C%A8%E5%8D%B3-%E5%8D%B0%E9%83%A8%E9%95%BF-%E5%8D%B0%E5%BA%A6%E4%B8%8D%E4%BC%9A%E5%8E%BB%E4%B9%9E%E6%B1%82%EF%BC%8C%E5%B0%86%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91%E5%88%B6%E9%80%A0",
-      "pubDate": "2026-11-04T15:06:41+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "Titan OS raises $46 million to expand its smart TV OS internationally",
-      "link": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
-      "pubDate": "2026-11-04T15:00:00+00:00",
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "pubDate": "2026-11-04T21:10:56+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "法国一家银行遭遇网络攻击，涉案金额约1亿欧元",
+      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "pubDate": "2026-11-04T20:52:03+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "德国《商报》：反对特朗普主义的人民起义",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
+      "pubDate": "2026-11-04T20:49:34+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "打伊朗与期中选举落败 被战争部长撤职的女中将当选民主党众议员",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261104-%E6%89%93%E4%BC%8A%E6%9C%97%E4%B8%8E%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E8%90%BD%E8%B4%A5-%E8%A2%AB%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF%E6%92%A4%E8%81%8C%E7%9A%84%E5%A5%B3%E4%B8%AD%E5%B0%86%E5%BD%93%E9%80%89%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BC%97%E8%AE%AE%E5%91%98",
+      "pubDate": "2026-11-04T20:37:22+00:00",
+      "source": "RFI经济"
     }
   ],
   "trending": [
     {
-      "title": "Waymo confirms it will split with Uber in January 2028",
-      "link": "https://techcrunch.com/2026/11/04/waymo-confirms-it-will-split-with-uber-in-january-2028/",
-      "pubDate": "2026-11-04T18:12:30+00:00",
+      "title": "AI PACs spent millions trying to shape Congress — here’s how they fared",
+      "link": "https://techcrunch.com/2026/11/04/ai-pacs-spent-millions-trying-to-shape-congress-heres-how-they-fared/",
+      "pubDate": "2026-11-04T22:45:09+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "‘You Can See Everything’ is getting an outer space release and it hasn’t even come out in Europe yet",
-      "link": "https://techcrunch.com/2026/11/04/you-can-see-everything-is-getting-an-outer-space-release-and-it-hasnt-even-come-out-in-europe-yet/",
-      "pubDate": "2026-11-04T18:10:11+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "This Month in Ladybird – October 2026",
-      "link": "https://ladybird.org/newsletter/2026-10-31/",
-      "pubDate": "2026-11-04T17:59:35+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "BYD doubles its Brazil market share to 9.7% a year after opening its local plant",
-      "link": "https://www.bloomberg.com/news/articles/2026-11-03/china-s-byd-doubles-market-share-in-brazil-with-new-plant-eyed",
-      "pubDate": "2026-11-04T17:55:29+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
-      "link": "https://news.ycombinator.com/item?id=50368804",
-      "pubDate": "2026-11-04T17:31:53+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "link": "https://www.anthropic.com/research/provable-inference",
-      "pubDate": "2026-11-04T17:17:46+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "王毅与菲外长通话促加强对少数政客约束 菲防长：若针对的是我，我只听总统的",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261104-%E7%8E%8B%E6%AF%85%E4%B8%8E%E8%8F%B2%E5%A4%96%E9%95%BF%E9%80%9A%E8%AF%9D%E4%BF%83%E5%8A%A0%E5%BC%BA%E5%AF%B9%E5%B0%91%E6%95%B0%E6%94%BF%E5%AE%A2%E7%BA%A6%E6%9D%9F-%E8%8F%B2%E9%98%B2%E9%95%BF-%E8%8B%A5%E9%92%88%E5%AF%B9%E7%9A%84%E6%98%AF%E6%88%91%EF%BC%8C%E6%88%91%E5%8F%AA%E5%90%AC%E6%80%BB%E7%BB%9F%E7%9A%84",
-      "pubDate": "2026-11-04T17:12:14+00:00",
+      "title": "法新社：惨败后特朗普却表现得若无其事，仿佛什么都没有发生",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E6%B3%95%E6%96%B0%E7%A4%BE-%E6%83%A8%E8%B4%A5%E5%90%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%8D%B4%E8%A1%A8%E7%8E%B0%E5%BE%97%E8%8B%A5%E6%97%A0%E5%85%B6%E4%BA%8B%EF%BC%8C%E4%BB%BF%E4%BD%9B%E4%BB%80%E4%B9%88%E9%83%BD%E6%B2%A1%E6%9C%89%E5%8F%91%E7%94%9F",
+      "pubDate": "2026-11-04T22:22:15+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "Sequoia hits rewind, undoing 20 years of expansion",
-      "link": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
-      "pubDate": "2026-11-04T17:11:15+00:00",
+      "title": "Nothing CEO says company’s mysterious AI-first device is dropping next month",
+      "link": "https://techcrunch.com/2026/11/04/nothing-ceo-says-companys-mysterious-ai-first-device-is-dropping-next-month/",
+      "pubDate": "2026-11-04T22:13:16+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "An end to buggy web apps",
-      "link": "https://replay.io/blog/an-end-to-buggy-web-apps",
-      "pubDate": "2026-11-04T17:01:44+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "I tried Apple’s Siri Recaps. They’re surprisingly useful — and a little unsettling",
-      "link": "https://techcrunch.com/2026/11/04/i-tried-apples-siri-recaps-theyre-surprisingly-useful-and-a-little-unsettling/",
-      "pubDate": "2026-11-04T16:51:35+00:00",
+      "title": "Almost no one uses AI agents to book their Uber, company says",
+      "link": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+      "pubDate": "2026-11-04T21:56:01+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "荷兰安世半导体起诉闻泰科技及其创始人 要求赔偿损失",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261104-%E8%8D%B7%E5%85%B0%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%B7%E8%AF%89%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E5%8F%8A%E5%85%B6%E5%88%9B%E5%A7%8B%E4%BA%BA-%E8%A6%81%E6%B1%82%E8%B5%94%E5%81%BF%E6%8D%9F%E5%A4%B1",
-      "pubDate": "2026-11-04T16:26:28+00:00",
+      "title": "Snapchat surpasses 30M paid subscribers",
+      "link": "https://techcrunch.com/2026/11/04/snapchat-surpasses-30m-paid-subscribers/",
+      "pubDate": "2026-11-04T21:49:29+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "伊朗嘲讽特朗普在德州实现了政权更迭",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261104-%E4%BC%8A%E6%9C%97%E5%98%B2%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%E5%9C%A8%E5%BE%B7%E5%B7%9E%E5%AE%9E%E7%8E%B0%E4%BA%86%E6%94%BF%E6%9D%83%E6%9B%B4%E8%BF%AD",
+      "pubDate": "2026-11-04T21:45:31+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "Google faces backlash for plan that would turn off Search for schools that restrict AI",
-      "link": "https://techcrunch.com/2026/11/04/google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restrict-ai/",
-      "pubDate": "2026-11-04T16:17:22+00:00",
+      "title": "欧洲将向芯片初创企业投资5.25亿欧元，追赶美国与中国",
+      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261104-%E6%AC%A7%E6%B4%B2%E5%B0%86%E5%90%91%E8%8A%AF%E7%89%87%E5%88%9D%E5%88%9B%E4%BC%81%E4%B8%9A%E6%8A%95%E8%B5%845-25%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C%E8%BF%BD%E8%B5%B6%E7%BE%8E%E5%9B%BD%E4%B8%8E%E4%B8%AD%E5%9B%BD",
+      "pubDate": "2026-11-04T21:42:01+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "OpenAI is already trying to shape the 2028 election",
+      "link": "https://techcrunch.com/2026/11/04/openai-is-already-trying-to-shape-the-2028-election/",
+      "pubDate": "2026-11-04T21:25:44+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "Meta acquires AI coding startup Conductor",
+      "link": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+      "pubDate": "2026-11-04T21:10:56+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "法国一家银行遭遇网络攻击，涉案金额约1亿欧元",
+      "link": "https://www.rfi.fr/cn/%E7%A4%BE%E4%BC%9A/20261104-%E6%B3%95%E5%9B%BD%E4%B8%80%E5%AE%B6%E9%93%B6%E8%A1%8C%E9%81%AD%E9%81%87%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB%EF%BC%8C%E6%B6%89%E6%A1%88%E9%87%91%E9%A2%9D%E7%BA%A61%E4%BA%BF%E6%AC%A7%E5%85%83",
+      "pubDate": "2026-11-04T20:52:03+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "德国《商报》：反对特朗普主义的人民起义",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261104-%E5%BE%B7%E5%9B%BD-%E5%95%86%E6%8A%A5-%E5%8F%8D%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BB%E4%B9%89%E7%9A%84%E4%BA%BA%E6%B0%91%E8%B5%B7%E4%B9%89",
+      "pubDate": "2026-11-04T20:49:34+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "打伊朗与期中选举落败 被战争部长撤职的女中将当选民主党众议员",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261104-%E6%89%93%E4%BC%8A%E6%9C%97%E4%B8%8E%E6%9C%9F%E4%B8%AD%E9%80%89%E4%B8%BE%E8%90%BD%E8%B4%A5-%E8%A2%AB%E6%88%98%E4%BA%89%E9%83%A8%E9%95%BF%E6%92%A4%E8%81%8C%E7%9A%84%E5%A5%B3%E4%B8%AD%E5%B0%86%E5%BD%93%E9%80%89%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BC%97%E8%AE%AE%E5%91%98",
+      "pubDate": "2026-11-04T20:37:22+00:00",
+      "source": "法国国际广播电台"
     }
   ],
-  "generatedAt": "2026-11-04T18:18:35.308281+00:00",
-  "sourceCount": 4
+  "generatedAt": "2026-11-05T00:00:16.841436+00:00",
+  "sourceCount": 3
 }
