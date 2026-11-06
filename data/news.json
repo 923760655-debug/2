@@ -1,6 +1,30 @@
 {
   "world": [
     {
+      "title": "加州州长宣布为548名死刑犯减刑",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%AE%A3%E5%B8%83%E4%B8%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E5%87%8F%E5%88%91",
+      "pubDate": "2026-11-05T23:17:51+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "巴拉圭银行倒闭引发政治危机，总统培尼亚宣布辞职",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%93%B6%E8%A1%8C%E5%80%92%E9%97%AD%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA%EF%BC%8C%E6%80%BB%E7%BB%9F%E5%9F%B9%E5%B0%BC%E4%BA%9A%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
+      "pubDate": "2026-11-05T23:09:30+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美国对古巴实施新一轮制裁，制裁名单新增两家中国电子公司",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%AE%9E%E6%96%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E5%88%B6%E8%A3%81%EF%BC%8C%E5%88%B6%E8%A3%81%E5%90%8D%E5%8D%95%E6%96%B0%E5%A2%9E%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%AC%E5%8F%B8",
+      "pubDate": "2026-11-05T22:46:37+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "数十万法国人周四在全国各地示威游行，要求提高购买力",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261105-%E6%95%B0%E5%8D%81%E4%B8%87%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%91%A8%E5%9B%9B%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E8%B4%AD%E4%B9%B0%E5%8A%9B",
+      "pubDate": "2026-11-05T22:32:53+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "特朗普力挺国防部长赫格塞斯 众议院最快下周表决弹劾",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF-%E4%BC%97%E8%AE%AE%E9%99%A2%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%E5%BC%B9%E5%8A%BE",
       "pubDate": "2026-11-05T19:59:30+00:00",
@@ -47,37 +71,37 @@
       "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261105-%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E5%B7%B2%E5%9B%BE%E9%80%9A%E8%BF%87%E6%AC%A7%E6%B4%B2%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AF%BB%E6%B1%82%E8%8B%B1%E4%BC%9F%E8%BE%BEblackwell%E7%AE%97%E5%8A%9B",
       "pubDate": "2026-11-05T15:14:36+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "黄之锋亲撰求情信认错判法律 强调政治参与非出于仇恨 盼出狱照顾年迈双亲",
-      "link": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/20261105-%E9%BB%84%E4%B9%8B%E9%94%8B%E4%BA%B2%E6%92%B0%E6%B1%82%E6%83%85%E4%BF%A1%E8%AE%A4%E9%94%99%E5%88%A4%E6%B3%95%E5%BE%8B-%E5%BC%BA%E8%B0%83%E6%94%BF%E6%B2%BB%E5%8F%82%E4%B8%8E%E9%9D%9E%E5%87%BA%E4%BA%8E%E4%BB%87%E6%81%A8-%E7%9B%BC%E5%87%BA%E7%8B%B1%E7%85%A7%E9%A1%BE%E5%B9%B4%E8%BF%88%E5%8F%8C%E4%BA%B2",
-      "pubDate": "2026-11-05T14:26:42+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "软银以近54亿美元收购ABB机器人业务交易确认被中方阻止",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261105-%E8%BD%AF%E9%93%B6%E4%BB%A554%E4%BA%BF%E7%BE%8E%E5%85%83%E6%94%B6%E8%B4%ADabb%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%9A%E5%8A%A1%E4%BA%A4%E6%98%93%E7%A1%AE%E8%AE%A4%E8%A2%AB%E4%B8%AD%E6%96%B9%E9%98%BB%E6%AD%A2",
-      "pubDate": "2026-11-05T12:54:45+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "法国社会不满进一步合流：工会、新老黄背心、学生、公私营等领域今日罢工示威",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261105-%E6%B3%95%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%B8%8D%E6%BB%A1%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%90%88%E6%B5%81-%E5%B7%A5%E4%BC%9A-%E6%96%B0%E8%80%81%E9%BB%84%E8%83%8C%E5%BF%83-%E5%AD%A6%E7%94%9F-%E5%85%AC%E7%A7%81%E8%90%A5%E7%AD%89%E9%A2%86%E5%9F%9F%E4%BB%8A%E6%97%A5%E7%BD%A2%E5%B7%A5%E7%A4%BA%E5%A8%81",
-      "pubDate": "2026-11-05T12:34:17+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "北京未批准大规模进口 约60万枚英伟达H200芯片被指滞留香港",
-      "link": "https://www.rfi.fr/cn/%E7%A7%91%E6%8A%80%E4%B8%8E%E6%96%87%E5%8C%96/20261105-%E5%8C%97%E4%BA%AC%E6%9C%AA%E6%89%B9%E5%87%86%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%BF%9B%E5%8F%A3-%E7%BA%A6%E6%9C%8960%E4%B8%87%E6%9E%9A%E8%8B%B1%E4%BC%9F%E8%BE%BEh200%E8%8A%AF%E7%89%87%E8%A2%AB%E6%8C%87%E6%BB%9E%E7%95%99%E9%A6%99%E6%B8%AF",
-      "pubDate": "2026-11-05T12:22:17+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
     {
-      "title": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
-      "link": "https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html",
-      "pubDate": "2026-11-05T20:58:36+00:00",
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+      "pubDate": "2026-11-06T00:31:11+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "pubDate": "2026-11-06T00:00:24+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+      "link": "https://www.fgc.org.br/comunicado",
+      "pubDate": "2026-11-05T23:32:36+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "pubDate": "2026-11-05T23:09:57+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "pubDate": "2026-11-05T22:17:15+00:00",
       "source": "Hacker News"
     },
     {
@@ -93,14 +117,8 @@
       "source": "Hacker News"
     },
     {
-      "title": "The Cost of Blogging",
-      "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-      "pubDate": "2026-11-05T20:14:25+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Kagi Search for Everyone",
-      "link": "https://kagi.com/changelog",
+      "title": "Search for everyone",
+      "link": "https://kagi.com/changelog#11820",
       "pubDate": "2026-11-05T20:03:34+00:00",
       "source": "Hacker News"
     },
@@ -108,6 +126,12 @@
       "title": "Goodbye from Salon",
       "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
       "pubDate": "2026-11-05T20:03:29+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Introducing Pangram Image 1.0",
+      "link": "https://www.pangram.com/blog/introducing-pangram-image-1-0",
+      "pubDate": "2026-11-05T19:27:52+00:00",
       "source": "Hacker News"
     },
     {
@@ -121,33 +145,51 @@
       "link": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
       "pubDate": "2026-11-05T19:08:22+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "link": "https://github.com/rivet-dev/rivet",
-      "pubDate": "2026-11-05T17:17:42+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Nasdaq plummets 4% into correction territory",
-      "link": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
-      "pubDate": "2026-11-05T17:11:15+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-      "link": "https://www.ycombinator.com/companies/bild-ai/jobs",
-      "pubDate": "2026-11-05T17:01:23+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Window Sweaters",
-      "link": "https://github.com/saragordic/window-sweaters",
-      "pubDate": "2026-11-05T16:50:14+00:00",
-      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "pubDate": "2026-11-06T00:07:18+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "pubDate": "2026-11-06T00:01:38+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "加州州长宣布为548名死刑犯减刑",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%AE%A3%E5%B8%83%E4%B8%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E5%87%8F%E5%88%91",
+      "pubDate": "2026-11-05T23:17:51+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "巴拉圭银行倒闭引发政治危机，总统培尼亚宣布辞职",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%93%B6%E8%A1%8C%E5%80%92%E9%97%AD%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA%EF%BC%8C%E6%80%BB%E7%BB%9F%E5%9F%B9%E5%B0%BC%E4%BA%9A%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
+      "pubDate": "2026-11-05T23:09:30+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "美国对古巴实施新一轮制裁，制裁名单新增两家中国电子公司",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%AE%9E%E6%96%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E5%88%B6%E8%A3%81%EF%BC%8C%E5%88%B6%E8%A3%81%E5%90%8D%E5%8D%95%E6%96%B0%E5%A2%9E%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%AC%E5%8F%B8",
+      "pubDate": "2026-11-05T22:46:37+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "pubDate": "2026-11-05T22:40:55+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "数十万法国人周四在全国各地示威游行，要求提高购买力",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261105-%E6%95%B0%E5%8D%81%E4%B8%87%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%91%A8%E5%9B%9B%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E8%B4%AD%E4%B9%B0%E5%8A%9B",
+      "pubDate": "2026-11-05T22:32:53+00:00",
+      "source": "RFI经济"
+    },
     {
       "title": "Serve Robotics launches new business to become the AWS for robots",
       "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
@@ -176,125 +218,83 @@
       "title": "Meta warns that election backlash against data centers could make AI expansion harder",
       "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
       "pubDate": "2026-11-05T19:12:39+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI released a new cybersecurity model. Is that enough?",
-      "link": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
-      "pubDate": "2026-11-05T19:06:12+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "20多架欧洲航班本周相继遭受匿名炸弹威胁",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261105-20%E5%A4%9A%E6%9E%B6%E6%AC%A7%E6%B4%B2%E8%88%AA%E7%8F%AD%E6%9C%AC%E5%91%A8%E7%9B%B8%E7%BB%A7%E9%81%AD%E5%8F%97%E5%8C%BF%E5%90%8D%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81",
-      "pubDate": "2026-11-05T18:49:37+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-      "link": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-      "pubDate": "2026-11-05T18:48:34+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
-      "link": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
-      "pubDate": "2026-11-05T18:02:27+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
-      "link": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
-      "pubDate": "2026-11-05T18:00:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Claude can now analyze your spending with its new Personal Finance tool",
-      "link": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
-      "pubDate": "2026-11-05T18:00:00+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Harbinger raises $240M after expanding into defense",
-      "link": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
-      "pubDate": "2026-11-05T17:52:44+00:00",
       "source": "TechCrunch"
     }
   ],
   "trending": [
     {
-      "title": "Serve Robotics launches new business to become the AWS for robots",
-      "link": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
-      "pubDate": "2026-11-05T21:15:00+00:00",
+      "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+      "link": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+      "pubDate": "2026-11-06T00:31:11+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "link": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "pubDate": "2026-11-06T00:07:18+00:00",
       "source": "TechCrunch"
     },
     {
-      "title": "Chip stocks get slaughtered as Wall Street in worst post-midterm day since 1896",
-      "link": "https://finance.yahoo.com/markets/article/chip-stocks-get-slaughtered-as-wall-street-heads-for-its-worst-post-midterm-day-since-1896-163413900.html",
-      "pubDate": "2026-11-05T20:58:36+00:00",
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "link": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "pubDate": "2026-11-06T00:01:38+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Inkling 2 Small",
+      "link": "https://thinkingmachines.ai/news/inkling-2-small/",
+      "pubDate": "2026-11-06T00:00:24+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "link": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-      "pubDate": "2026-11-05T20:43:42+00:00",
+      "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+      "link": "https://www.fgc.org.br/comunicado",
+      "pubDate": "2026-11-05T23:32:36+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "link": "https://www.tencent.com/tencent-launches-hy4-joining-the-ranks-of-the-worlds-leading-open-source-ai-models/",
-      "pubDate": "2026-11-05T20:21:43+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "The Cost of Blogging",
-      "link": "https://onlinegoddess.net/2026/11/the-cost-of-blogging/",
-      "pubDate": "2026-11-05T20:14:25+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Kagi Search for Everyone",
-      "link": "https://kagi.com/changelog",
-      "pubDate": "2026-11-05T20:03:34+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Goodbye from Salon",
-      "link": "https://www.salon.com/2026/11/05/goodbye-from-salon/",
-      "pubDate": "2026-11-05T20:03:29+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "特朗普力挺国防部长赫格塞斯 众议院最快下周表决弹劾",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E7%89%B9%E6%9C%97%E6%99%AE%E5%8A%9B%E6%8C%BA%E5%9B%BD%E9%98%B2%E9%83%A8%E9%95%BF%E8%B5%AB%E6%A0%BC%E5%A1%9E%E6%96%AF-%E4%BC%97%E8%AE%AE%E9%99%A2%E6%9C%80%E5%BF%AB%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%E5%BC%B9%E5%8A%BE",
-      "pubDate": "2026-11-05T19:59:30+00:00",
+      "title": "加州州长宣布为548名死刑犯减刑",
+      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261105-%E5%8A%A0%E5%B7%9E%E5%B7%9E%E9%95%BF%E5%AE%A3%E5%B8%83%E4%B8%BA548%E5%90%8D%E6%AD%BB%E5%88%91%E7%8A%AF%E5%87%8F%E5%88%91",
+      "pubDate": "2026-11-05T23:17:51+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "中期选举后美国两党最新出台哪些政策？",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261105-%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%90%8E%E7%BE%8E%E5%9B%BD%E4%B8%A4%E5%85%9A%E6%9C%80%E6%96%B0%E5%87%BA%E5%8F%B0%E5%93%AA%E4%BA%9B%E6%94%BF%E7%AD%96",
-      "pubDate": "2026-11-05T19:52:03+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "link": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
-      "pubDate": "2026-11-05T19:48:28+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Hungary: Communist-era files released, up to 60k former agents revealed",
-      "link": "https://www.euronews.com/2026/11/04/hungary-communist-era-files-opened-up-to-60000-former-agents-revealed",
-      "pubDate": "2026-11-05T19:16:34+00:00",
+      "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+      "link": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+      "pubDate": "2026-11-05T23:09:57+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
-      "link": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
-      "pubDate": "2026-11-05T19:12:39+00:00",
+      "title": "巴拉圭银行倒闭引发政治危机，总统培尼亚宣布辞职",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E5%B7%B4%E6%8B%89%E5%9C%AD%E9%93%B6%E8%A1%8C%E5%80%92%E9%97%AD%E5%BC%95%E5%8F%91%E6%94%BF%E6%B2%BB%E5%8D%B1%E6%9C%BA%EF%BC%8C%E6%80%BB%E7%BB%9F%E5%9F%B9%E5%B0%BC%E4%BA%9A%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C",
+      "pubDate": "2026-11-05T23:09:30+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美国对古巴实施新一轮制裁，制裁名单新增两家中国电子公司",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261105-%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%AE%9E%E6%96%BD%E6%96%B0%E4%B8%80%E8%BD%AE%E5%88%B6%E8%A3%81%EF%BC%8C%E5%88%B6%E8%A3%81%E5%90%8D%E5%8D%95%E6%96%B0%E5%A2%9E%E4%B8%A4%E5%AE%B6%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E5%85%AC%E5%8F%B8",
+      "pubDate": "2026-11-05T22:46:37+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "link": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "pubDate": "2026-11-05T22:40:55+00:00",
       "source": "TechCrunch"
+    },
+    {
+      "title": "数十万法国人周四在全国各地示威游行，要求提高购买力",
+      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261105-%E6%95%B0%E5%8D%81%E4%B8%87%E6%B3%95%E5%9B%BD%E4%BA%BA%E5%91%A8%E5%9B%9B%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E7%A4%BA%E5%A8%81%E6%B8%B8%E8%A1%8C%EF%BC%8C%E8%A6%81%E6%B1%82%E6%8F%90%E9%AB%98%E8%B4%AD%E4%B9%B0%E5%8A%9B",
+      "pubDate": "2026-11-05T22:32:53+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Claude Code sends your email address to websites",
+      "link": "https://github.com/anthropics/claude-code/issues/107757",
+      "pubDate": "2026-11-05T22:17:15+00:00",
+      "source": "Hacker News"
     }
   ],
-  "generatedAt": "2026-11-05T21:38:05.042024+00:00",
+  "generatedAt": "2026-11-06T01:51:25.161198+00:00",
   "sourceCount": 4
 }
