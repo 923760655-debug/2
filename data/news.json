@@ -1,6 +1,36 @@
 {
   "world": [
     {
+      "title": "纽时揭中国两家芯片商获美批准处理英伟达芯片“形同空壳”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E7%BA%BD%E6%97%B6%E6%8F%AD%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%AE%B6%E8%8A%AF%E7%89%87%E5%95%86%E8%8E%B7%E7%BE%8E%E6%89%B9%E5%87%86%E5%A4%84%E7%90%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%BD%A2%E5%90%8C%E7%A9%BA%E5%A3%B3",
+      "pubDate": "2026-11-07T17:49:57+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "波兰第二大城克拉科夫发生枪击案      至少6死10伤",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%A2%E5%85%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E4%BC%A4",
+      "pubDate": "2026-11-07T17:32:08+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "法国检方调查针对航班的虚假炸弹威胁与外国势力潜在关联",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E8%B0%83%E6%9F%A5%E9%92%88%E5%AF%B9%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9A%84%E8%99%9A%E5%81%87%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%85%B3%E8%81%94",
+      "pubDate": "2026-11-07T16:55:36+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%AF%BB%E6%B1%82%E9%99%90%E5%88%B6%E4%BC%8A%E6%9C%97%E9%99%86%E8%B7%AF%E8%B4%B8%E6%98%93-%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%91%8A%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%84%8F%E4%BC%8A%E6%9C%97%E7%BB%9D%E4%B8%8D%E5%BA%94%E6%8B%A5%E6%A0%B8",
+      "pubDate": "2026-11-07T15:47:57+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "黄仁勋之女黄敏珊“因家庭原因”突然取消访韩行程",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B9%8B%E5%A5%B3%E9%BB%84%E6%95%8F%E7%8F%8A-%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0-%E7%AA%81%E7%84%B6%E5%8F%96%E6%B6%88%E8%AE%BF%E9%9F%A9%E8%A1%8C%E7%A8%8B",
+      "pubDate": "2026-11-07T14:29:29+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "联合国人权办对港澳重刑判罚表担忧 外交部驻澳门公署：坚决反对",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8A%9E%E5%AF%B9%E6%B8%AF%E6%BE%B3%E9%87%8D%E5%88%91%E5%88%A4%E7%BD%9A%E8%A1%A8%E6%8B%85%E5%BF%A7-%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%BE%B3%E9%97%A8%E5%85%AC%E7%BD%B2-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
       "pubDate": "2026-11-07T13:40:14+00:00",
@@ -40,115 +70,133 @@
       "title": "美情报备忘录指与黄仁勋有过恋爱关系的中国女商人是国安部间谍",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E7%BE%8E%E6%83%85%E6%8A%A5%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%87%E4%B8%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9C%89%E8%BF%87%E6%81%8B%E7%88%B1%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%95%86%E4%BA%BA%E6%98%AF%E5%9B%BD%E5%AE%89%E9%83%A8%E9%97%B4%E8%B0%8D",
       "pubDate": "2026-11-07T08:55:39+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国强势对应高市“台湾有事”发言一周年  APEC日中首脑难以举行会谈",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%8A%BF%E5%AF%B9%E5%BA%94%E9%AB%98%E5%B8%82-%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B-%E5%8F%91%E8%A8%80%E4%B8%80%E5%91%A8%E5%B9%B4-apec%E6%97%A5%E4%B8%AD%E9%A6%96%E8%84%91%E9%9A%BE%E4%BB%A5%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
-      "pubDate": "2026-11-07T08:23:31+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国首次邀请外籍航天员进入空间站：巴基斯坦宇航员将搭乘神舟二十四号飞船执行任务",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E9%82%80%E8%AF%B7%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%9B%E5%85%A5%E7%A9%BA%E9%97%B4%E7%AB%99-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%87%E8%88%AA%E5%91%98%E5%B0%86%E6%90%AD%E4%B9%98%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E9%A3%9E%E8%88%B9%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1",
-      "pubDate": "2026-11-07T05:12:06+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "台湾：台积电股价飙升掀股市热，部分普通民众甚至每天都买卖股票",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261106-%E5%8F%B0%E6%B9%BE-%E5%8F%B0%E7%A7%AF%E7%94%B5%E8%82%A1%E4%BB%B7%E9%A3%99%E5%8D%87%E6%8E%80%E8%82%A1%E5%B8%82%E7%83%AD%EF%BC%8C%E9%83%A8%E5%88%86%E6%99%AE%E9%80%9A%E6%B0%91%E4%BC%97%E7%94%9A%E8%87%B3%E6%AF%8F%E5%A4%A9%E9%83%BD%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8",
-      "pubDate": "2026-11-06T22:47:40+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中国解放军四少将被终止全国人大代表资格",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261106-%E4%B8%AD%E5%9B%BD%E8%A7%A3%E6%94%BE%E5%86%9B%E5%9B%9B%E5%B0%91%E5%B0%86%E8%A2%AB%E7%BB%88%E6%AD%A2%E5%85%A8%E5%9B%BD%E4%BA%BA%E5%A4%A7%E4%BB%A3%E8%A1%A8%E8%B5%84%E6%A0%BC",
-      "pubDate": "2026-11-06T22:21:34+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "教宗良十四世开启12天南美访问",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261106-%E6%95%99%E5%AE%97%E8%89%AF%E5%8D%81%E5%9B%9B%E4%B8%96%E5%BC%80%E5%90%AF12%E5%A4%A9%E5%8D%97%E7%BE%8E%E8%AE%BF%E9%97%AE",
-      "pubDate": "2026-11-06T21:14:14+00:00",
       "source": "法国国际广播电台"
     }
   ],
   "tech": [
     {
-      "title": "Upload Your RAM",
-      "link": "https://uploadyourram.org",
-      "pubDate": "2026-11-07T10:15:26+00:00",
+      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "pubDate": "2026-11-07T18:12:12+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "pubDate": "2026-11-07T09:46:03+00:00",
+      "title": "The End of AI Frontiers",
+      "link": "https://hunch.net/?p=13764006",
+      "pubDate": "2026-11-07T18:04:07+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Running a law firm on Free software",
-      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "pubDate": "2026-11-07T09:39:06+00:00",
+      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+      "pubDate": "2026-11-07T18:02:17+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Port 0: The Port That Does Not Exist",
-      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "pubDate": "2026-11-07T09:38:26+00:00",
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "pubDate": "2026-11-07T17:30:49+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Need for Speed Underground 2 online in the browser",
-      "link": "https://nfsu2.xyz/",
-      "pubDate": "2026-11-07T09:36:36+00:00",
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "link": "https://github.com/hedgerow-dev/coldframe",
+      "pubDate": "2026-11-07T17:27:30+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "The Components of Agent Memory",
-      "link": "https://www.anthropic.com/research/components-of-agent-memory",
-      "pubDate": "2026-11-07T06:39:04+00:00",
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "pubDate": "2026-11-07T17:19:00+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
-      "link": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
-      "pubDate": "2026-11-07T04:54:36+00:00",
+      "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "pubDate": "2026-11-07T17:06:36+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "link": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
-      "pubDate": "2026-11-06T23:37:19+00:00",
+      "title": "How Long Can Life Wait?",
+      "link": "https://mceglowski.substack.com/p/how-long-can-life-wait",
+      "pubDate": "2026-11-07T16:22:59+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Libghostty 1.0",
-      "link": "https://mitchellh.com/writing/libghostty-1-0",
-      "pubDate": "2026-11-06T23:30:52+00:00",
+      "title": "Every processor die anyone has photographed and given away",
+      "link": "https://sheets.works/data-viz/cpu-dies",
+      "pubDate": "2026-11-07T16:21:36+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
-      "link": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
-      "pubDate": "2026-11-06T20:09:14+00:00",
+      "title": "They don't make 'em like that any more: Borland Turbo Pascal 7",
+      "link": "https://kevinboone.me/tpwin.html",
+      "pubDate": "2026-11-07T16:06:27+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "link": "https://hightouch.com/blog/llm-judges-identity-resolution",
-      "pubDate": "2026-11-06T19:48:51+00:00",
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "link": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "pubDate": "2026-11-07T15:16:01+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "link": "https://pwn.ai/blog/firecracker-escape",
-      "pubDate": "2026-11-06T19:33:38+00:00",
+      "title": "The Gordon Gekko Effect: The Role of Culture in the Financial Industry [pdf] (2016)",
+      "link": "https://www.newyorkfed.org/medialibrary/media/research/epr/2016/epr_2016_gordon-gekko-effect_lo.pdf",
+      "pubDate": "2026-11-07T14:18:45+00:00",
       "source": "Hacker News"
     }
   ],
   "finance": [
     {
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "pubDate": "2026-11-07T19:00:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "纽时揭中国两家芯片商获美批准处理英伟达芯片“形同空壳”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E7%BA%BD%E6%97%B6%E6%8F%AD%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%AE%B6%E8%8A%AF%E7%89%87%E5%95%86%E8%8E%B7%E7%BE%8E%E6%89%B9%E5%87%86%E5%A4%84%E7%90%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%BD%A2%E5%90%8C%E7%A9%BA%E5%A3%B3",
+      "pubDate": "2026-11-07T17:49:57+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "波兰第二大城克拉科夫发生枪击案      至少6死10伤",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%A2%E5%85%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E4%BC%A4",
+      "pubDate": "2026-11-07T17:32:08+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "pubDate": "2026-11-07T17:24:07+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "pubDate": "2026-11-07T17:18:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "法国检方调查针对航班的虚假炸弹威胁与外国势力潜在关联",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%95%E5%9B%BD%E6%A3%80%E6%96%B9%E8%B0%83%E6%9F%A5%E9%92%88%E5%AF%B9%E8%88%AA%E7%A9%BA%E5%85%AC%E5%8F%B8%E7%9A%84%E8%99%9A%E5%81%87%E7%82%B8%E5%BC%B9%E5%A8%81%E8%83%81%E4%B8%8E%E5%A4%96%E5%9B%BD%E5%8A%BF%E5%8A%9B%E5%85%B3%E8%81%94",
+      "pubDate": "2026-11-07T16:55:36+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "美军拟寻求限制伊朗陆路贸易 美官员称习近平告诉特朗普同意伊朗绝不应拥核",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/20261107-%E7%BE%8E%E5%86%9B%E6%8B%9F%E5%AF%BB%E6%B1%82%E9%99%90%E5%88%B6%E4%BC%8A%E6%9C%97%E9%99%86%E8%B7%AF%E8%B4%B8%E6%98%93-%E7%BE%8E%E5%AE%98%E5%91%98%E7%A7%B0%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%91%8A%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%8C%E6%84%8F%E4%BC%8A%E6%9C%97%E7%BB%9D%E4%B8%8D%E5%BA%94%E6%8B%A5%E6%A0%B8",
+      "pubDate": "2026-11-07T15:47:57+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "黄仁勋之女黄敏珊“因家庭原因”突然取消访韩行程",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B9%8B%E5%A5%B3%E9%BB%84%E6%95%8F%E7%8F%8A-%E5%9B%A0%E5%AE%B6%E5%BA%AD%E5%8E%9F%E5%9B%A0-%E7%AA%81%E7%84%B6%E5%8F%96%E6%B6%88%E8%AE%BF%E9%9F%A9%E8%A1%8C%E7%A8%8B",
+      "pubDate": "2026-11-07T14:29:29+00:00",
+      "source": "RFI经济"
+    },
+    {
       "title": "联合国人权办对港澳重刑判罚表担忧 外交部驻澳门公署：坚决反对",
       "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8A%9E%E5%AF%B9%E6%B8%AF%E6%BE%B3%E9%87%8D%E5%88%91%E5%88%A4%E7%BD%9A%E8%A1%A8%E6%8B%85%E5%BF%A7-%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%BE%B3%E9%97%A8%E5%85%AC%E7%BD%B2-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
       "pubDate": "2026-11-07T13:40:14+00:00",
@@ -171,130 +219,82 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261107-%E5%BC%A0%E5%89%91%E8%99%B9%E7%9A%84%E6%82%94%E8%BF%87%E5%81%87%E9%87%8A%E4%B8%8E%E9%BB%84%E4%B9%8B%E9%94%8B%E7%9A%84%E5%8D%81%E5%B9%B4%E9%87%8D%E5%88%A4-%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E5%9C%A8%E5%8F%B8%E6%B3%95%E5%AE%9E%E8%B7%B5%E4%B8%AD%E7%9A%84-%E6%A3%8D%E6%A3%92%E4%B8%8E%E8%83%A1%E8%90%9D%E5%8D%9C",
       "pubDate": "2026-11-07T12:00:34+00:00",
       "source": "RFI经济"
-    },
-    {
-      "title": "软银和ABB考虑剥离交易中国部分以挽救机器人协议",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261107-%E8%BD%AF%E9%93%B6%E5%92%8Cabb%E8%80%83%E8%99%91%E5%89%A5%E7%A6%BB%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9B%BD%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8F%E8%AE%AE",
-      "pubDate": "2026-11-07T10:15:18+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "台湾关闭驻巴新代表处 并指责中国打压",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E5%8F%B0%E6%B9%BE%E5%85%B3%E9%97%AD%E9%A9%BB%E5%B7%B4%E6%96%B0%E4%BB%A3%E8%A1%A8%E5%A4%84-%E5%B9%B6%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E6%89%93%E5%8E%8B",
-      "pubDate": "2026-11-07T09:27:38+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "美情报备忘录指与黄仁勋有过恋爱关系的中国女商人是国安部间谍",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E7%BE%8E%E6%83%85%E6%8A%A5%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%87%E4%B8%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9C%89%E8%BF%87%E6%81%8B%E7%88%B1%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%95%86%E4%BA%BA%E6%98%AF%E5%9B%BD%E5%AE%89%E9%83%A8%E9%97%B4%E8%B0%8D",
-      "pubDate": "2026-11-07T08:55:39+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "中国强势对应高市“台湾有事”发言一周年  APEC日中首脑难以举行会谈",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E4%B8%AD%E5%9B%BD%E5%BC%BA%E5%8A%BF%E5%AF%B9%E5%BA%94%E9%AB%98%E5%B8%82-%E5%8F%B0%E6%B9%BE%E6%9C%89%E4%BA%8B-%E5%8F%91%E8%A8%80%E4%B8%80%E5%91%A8%E5%B9%B4-apec%E6%97%A5%E4%B8%AD%E9%A6%96%E8%84%91%E9%9A%BE%E4%BB%A5%E4%B8%BE%E8%A1%8C%E4%BC%9A%E8%B0%88",
-      "pubDate": "2026-11-07T08:23:31+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "中国首次邀请外籍航天员进入空间站：巴基斯坦宇航员将搭乘神舟二十四号飞船执行任务",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%AC%A1%E9%82%80%E8%AF%B7%E5%A4%96%E7%B1%8D%E8%88%AA%E5%A4%A9%E5%91%98%E8%BF%9B%E5%85%A5%E7%A9%BA%E9%97%B4%E7%AB%99-%E5%B7%B4%E5%9F%BA%E6%96%AF%E5%9D%A6%E5%AE%87%E8%88%AA%E5%91%98%E5%B0%86%E6%90%AD%E4%B9%98%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B7%E9%A3%9E%E8%88%B9%E6%89%A7%E8%A1%8C%E4%BB%BB%E5%8A%A1",
-      "pubDate": "2026-11-07T05:12:06+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "Sequoia shutting down its Scouts program marks the end of an era",
-      "link": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
-      "pubDate": "2026-11-07T05:01:54+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "From the front row to the hot seat — what the midterms mean for Big Tech",
-      "link": "https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/",
-      "pubDate": "2026-11-07T04:16:43+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Crusoe sells troubled Wyoming data center project to Google",
-      "link": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
-      "pubDate": "2026-11-07T01:40:28+00:00",
-      "source": "TechCrunch"
     }
   ],
   "trending": [
     {
-      "title": "联合国人权办对港澳重刑判罚表担忧 外交部驻澳门公署：坚决反对",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E8%81%94%E5%90%88%E5%9B%BD%E4%BA%BA%E6%9D%83%E5%8A%9E%E5%AF%B9%E6%B8%AF%E6%BE%B3%E9%87%8D%E5%88%91%E5%88%A4%E7%BD%9A%E8%A1%A8%E6%8B%85%E5%BF%A7-%E5%A4%96%E4%BA%A4%E9%83%A8%E9%A9%BB%E6%BE%B3%E9%97%A8%E5%85%AC%E7%BD%B2-%E5%9D%9A%E5%86%B3%E5%8F%8D%E5%AF%B9",
-      "pubDate": "2026-11-07T13:40:14+00:00",
-      "source": "法国国际广播电台"
+      "title": "Parents want safer phones for kids. These companies are answering the call.",
+      "link": "https://techcrunch.com/2026/11/07/parents-want-safer-phones-for-kids-these-companies-are-answering-the-call/",
+      "pubDate": "2026-11-07T19:00:00+00:00",
+      "source": "TechCrunch"
     },
     {
-      "title": "美国促中国“全面、立即”履行釜山协议承诺",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E8%A7%A3%E8%AF%B4/20261107-%E7%BE%8E%E5%9B%BD%E5%91%BC%E5%90%81%E4%B8%AD%E5%9B%BD-%E5%85%A8%E9%9D%A2-%E7%AB%8B%E5%8D%B3-%E5%B1%A5%E8%A1%8C%E9%87%9C%E5%B1%B1%E5%8D%8F%E8%AE%AE%E6%89%BF%E8%AF%BA",
-      "pubDate": "2026-11-07T12:25:26+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "在华因间谍罪获刑的安斯泰来日籍员工12月将刑满出狱 预计立即遣返",
-      "link": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/20261107-%E5%9C%A8%E5%8D%8E%E5%9B%A0%E9%97%B4%E8%B0%8D%E7%BD%AA%E8%8E%B7%E5%88%91%E7%9A%84%E5%AE%89%E6%96%AF%E6%B3%B0%E6%9D%A5%E6%97%A5%E7%B1%8D%E5%91%98%E5%B7%A512%E6%9C%88%E5%B0%86%E5%88%91%E6%BB%A1%E5%87%BA%E7%8B%B1-%E9%A2%84%E8%AE%A1%E5%B0%86%E7%AB%8B%E5%8D%B3%E9%81%A3%E8%BF%94%E5%9B%9E",
-      "pubDate": "2026-11-07T12:09:43+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "张剑虹的悔过假释与黄之锋的十年重判 香港国安法在司法实践中的「棍棒与胡萝卜」",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E5%BE%AE%E8%A8%80%E5%BE%AE%E8%AF%AD/20261107-%E5%BC%A0%E5%89%91%E8%99%B9%E7%9A%84%E6%82%94%E8%BF%87%E5%81%87%E9%87%8A%E4%B8%8E%E9%BB%84%E4%B9%8B%E9%94%8B%E7%9A%84%E5%8D%81%E5%B9%B4%E9%87%8D%E5%88%A4-%E9%A6%99%E6%B8%AF%E5%9B%BD%E5%AE%89%E6%B3%95%E5%9C%A8%E5%8F%B8%E6%B3%95%E5%AE%9E%E8%B7%B5%E4%B8%AD%E7%9A%84-%E6%A3%8D%E6%A3%92%E4%B8%8E%E8%83%A1%E8%90%9D%E5%8D%9C",
-      "pubDate": "2026-11-07T12:00:34+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Upload Your RAM",
-      "link": "https://uploadyourram.org",
-      "pubDate": "2026-11-07T10:15:26+00:00",
+      "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+      "link": "https://blog.bosscher.ch/posts/openstick/",
+      "pubDate": "2026-11-07T18:12:12+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "软银和ABB考虑剥离交易中国部分以挽救机器人协议",
-      "link": "https://www.rfi.fr/cn/%E7%BB%8F%E8%B4%B8/20261107-%E8%BD%AF%E9%93%B6%E5%92%8Cabb%E8%80%83%E8%99%91%E5%89%A5%E7%A6%BB%E4%BA%A4%E6%98%93%E4%B8%AD%E5%9B%BD%E9%83%A8%E5%88%86%E4%BB%A5%E6%8C%BD%E6%95%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8F%E8%AE%AE",
-      "pubDate": "2026-11-07T10:15:18+00:00",
+      "title": "The End of AI Frontiers",
+      "link": "https://hunch.net/?p=13764006",
+      "pubDate": "2026-11-07T18:04:07+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+      "link": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+      "pubDate": "2026-11-07T18:02:17+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "纽时揭中国两家芯片商获美批准处理英伟达芯片“形同空壳”",
+      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261107-%E7%BA%BD%E6%97%B6%E6%8F%AD%E4%B8%AD%E5%9B%BD%E4%B8%A4%E5%AE%B6%E8%8A%AF%E7%89%87%E5%95%86%E8%8E%B7%E7%BE%8E%E6%89%B9%E5%87%86%E5%A4%84%E7%90%86%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%8A%AF%E7%89%87-%E5%BD%A2%E5%90%8C%E7%A9%BA%E5%A3%B3",
+      "pubDate": "2026-11-07T17:49:57+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "link": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
-      "pubDate": "2026-11-07T09:46:03+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Running a law firm on Free software",
-      "link": "https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/",
-      "pubDate": "2026-11-07T09:39:06+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Port 0: The Port That Does Not Exist",
-      "link": "https://acid.vegas/blog/the-port-that-does-not-exist/",
-      "pubDate": "2026-11-07T09:38:26+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Need for Speed Underground 2 online in the browser",
-      "link": "https://nfsu2.xyz/",
-      "pubDate": "2026-11-07T09:36:36+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "台湾关闭驻巴新代表处 并指责中国打压",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261107-%E5%8F%B0%E6%B9%BE%E5%85%B3%E9%97%AD%E9%A9%BB%E5%B7%B4%E6%96%B0%E4%BB%A3%E8%A1%A8%E5%A4%84-%E5%B9%B6%E6%8C%87%E8%B4%A3%E4%B8%AD%E5%9B%BD%E6%89%93%E5%8E%8B",
-      "pubDate": "2026-11-07T09:27:38+00:00",
+      "title": "波兰第二大城克拉科夫发生枪击案      至少6死10伤",
+      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261107-%E6%B3%A2%E5%85%B0%E7%AC%AC%E4%BA%8C%E5%A4%A7%E5%9F%8E%E5%85%8B%E6%8B%89%E7%A7%91%E5%A4%AB%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E6%A1%88-%E8%87%B3%E5%B0%916%E6%AD%BB10%E4%BC%A4",
+      "pubDate": "2026-11-07T17:32:08+00:00",
       "source": "法国国际广播电台"
     },
     {
-      "title": "美情报备忘录指与黄仁勋有过恋爱关系的中国女商人是国安部间谍",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261107-%E7%BE%8E%E6%83%85%E6%8A%A5%E5%A4%87%E5%BF%98%E5%BD%95%E6%8C%87%E4%B8%8E%E9%BB%84%E4%BB%81%E5%8B%8B%E6%9C%89%E8%BF%87%E6%81%8B%E7%88%B1%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%A5%B3%E5%95%86%E4%BA%BA%E6%98%AF%E5%9B%BD%E5%AE%89%E9%83%A8%E9%97%B4%E8%B0%8D",
-      "pubDate": "2026-11-07T08:55:39+00:00",
-      "source": "法国国际广播电台"
+      "title": "Five Memorable Books About Programming",
+      "link": "https://prog21.dadgum.com/19.html",
+      "pubDate": "2026-11-07T17:30:49+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "link": "https://github.com/hedgerow-dev/coldframe",
+      "pubDate": "2026-11-07T17:27:30+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Binance CFO is leaving to ‘pursue a new venture’ after $6.3 billion hack",
+      "link": "https://techcrunch.com/2026/11/07/binance-cfo-is-leaving-to-pursue-a-new-venture-after-6-3-billion-hack/",
+      "pubDate": "2026-11-07T17:24:07+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "MaxxBench – \"Nice DeepSWE score. But is it true?\"",
+      "link": "https://maxxbench.unlap.ai/research/why-maxxbench/",
+      "pubDate": "2026-11-07T17:19:00+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Amazon’s new basic Kindle proves you don’t need all the bells and whistles",
+      "link": "https://techcrunch.com/2026/11/07/amazons-new-basic-kindle-proves-you-dont-need-all-the-bells-and-whistles/",
+      "pubDate": "2026-11-07T17:18:00+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "Apple Keyboard has a blacklist of phrases you can't swipe",
+      "link": "https://www.theguardian.com/technology/2026/nov/06/struggling-to-spell-male-chauvinist-pig-apple-grey-list-means-your-iphone-wont-help-you",
+      "pubDate": "2026-11-07T17:06:36+00:00",
+      "source": "Hacker News"
     }
   ],
-  "generatedAt": "2026-11-07T14:28:16.360308+00:00",
+  "generatedAt": "2026-11-07T19:07:59.733676+00:00",
   "sourceCount": 4
 }
