@@ -1,6 +1,12 @@
 {
   "world": [
     {
+      "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
+      "pubDate": "2026-11-14T22:10:13+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "特习会在即，美农民关注农产品贸易和关税问题",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261114-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3%EF%BC%8C%E7%BE%8E%E5%86%9C%E6%B0%91%E5%85%B3%E6%B3%A8%E5%86%9C%E4%BA%A7%E5%93%81%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98",
       "pubDate": "2026-11-14T21:25:10+00:00",
@@ -65,18 +71,30 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%A9%84%E6%A6%84%E7%90%83-%E5%A8%81%E5%B0%94%E5%A3%AB%E8%87%AA1953%E5%B9%B4%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%87%BB%E8%B4%A5%E6%96%B0%E8%A5%BF%E5%85%B0",
       "pubDate": "2026-11-14T20:27:02+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "三方会谈议程和形式仍未敲定",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-%E4%B8%89%E6%96%B9%E4%BC%9A%E8%B0%88%E8%AE%AE%E7%A8%8B%E5%92%8C%E5%BD%A2%E5%BC%8F%E4%BB%8D%E6%9C%AA%E6%95%B2%E5%AE%9A",
-      "pubDate": "2026-11-14T20:21:21+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
     {
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "title": "L3Harris statement on the Nov. 13 ground stop",
+      "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "pubDate": "2026-11-14T22:51:44+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "pubDate": "2026-11-14T22:26:30+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "link": "https://retrocomputing.stackexchange.com/questions/17957",
+      "pubDate": "2026-11-14T22:22:49+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
       "pubDate": "2026-11-14T21:22:24+00:00",
       "source": "Hacker News"
     },
@@ -93,13 +111,7 @@
       "source": "Hacker News"
     },
     {
-      "title": "US IRS free online tax filing open source repo (2025)",
-      "link": "https://github.com/IRS-Public/direct-file",
-      "pubDate": "2026-11-14T17:48:20+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "A Family Tree of Software Job Titles",
+      "title": "A family tree of software job titles",
       "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "pubDate": "2026-11-14T17:45:19+00:00",
       "source": "Hacker News"
@@ -111,27 +123,9 @@
       "source": "Hacker News"
     },
     {
-      "title": "Will we put data centers in space?",
-      "link": "https://www.forethought.org/research/will-we-really-put-data-centers-in-space",
-      "pubDate": "2026-11-14T17:35:33+00:00",
-      "source": "Hacker News"
-    },
-    {
       "title": "Creating a self booting ZIP archive",
       "link": "https://goliath32.com/blog/ziphead.html",
       "pubDate": "2026-11-14T16:29:05+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "How to Create Your Own Decentralized Messenger Protocol",
-      "link": "https://karboosx.net/post/5j7jdDM3/how-to-create-your-own-decentralized-messenger-protocol",
-      "pubDate": "2026-11-14T16:01:04+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Formalizing US Tax Code (Using Lean)",
-      "link": "https://lexifina.com/blog/formalizing-the-us-tax-code",
-      "pubDate": "2026-11-14T15:41:20+00:00",
       "source": "Hacker News"
     },
     {
@@ -145,9 +139,27 @@
       "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
       "pubDate": "2026-11-14T15:04:15+00:00",
       "source": "Hacker News"
+    },
+    {
+      "title": "Demystifying phone unlocking tools: A technical overview",
+      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
+      "pubDate": "2026-11-14T14:44:28+00:00",
+      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "pubDate": "2026-11-15T00:08:07+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
+      "pubDate": "2026-11-14T22:10:13+00:00",
+      "source": "RFI经济"
+    },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -207,21 +219,39 @@
       "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261114-%E5%B8%83%E4%B8%BD%E5%90%89%E7%89%B9%E4%B8%8E%E5%89%8D%E5%A4%AB%E7%9A%84%E9%95%BF%E5%A5%B3%E5%89%8D%E5%BE%80%E4%B8%AD%E5%9B%BD%E5%B1%95%E5%87%BA%E5%85%B6%E8%89%BA%E6%9C%AF%E5%93%81",
       "pubDate": "2026-11-14T20:43:32+00:00",
       "source": "RFI经济"
-    },
-    {
-      "title": "意重申支持德国加入全球作战空中计划（GCAP）",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%84%8F%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E5%BE%B7%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%85%A8%E7%90%83%E4%BD%9C%E6%88%98%E7%A9%BA%E4%B8%AD%E8%AE%A1%E5%88%92-gcap",
-      "pubDate": "2026-11-14T20:35:21+00:00",
-      "source": "RFI经济"
-    },
-    {
-      "title": "橄榄球：威尔士自1953年以来首次击败新西兰",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%A9%84%E6%A6%84%E7%90%83-%E5%A8%81%E5%B0%94%E5%A3%AB%E8%87%AA1953%E5%B9%B4%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%87%BB%E8%B4%A5%E6%96%B0%E8%A5%BF%E5%85%B0",
-      "pubDate": "2026-11-14T20:27:02+00:00",
-      "source": "RFI经济"
     }
   ],
   "trending": [
+    {
+      "title": "Where was Nvidia’s security team?",
+      "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+      "pubDate": "2026-11-15T00:08:07+00:00",
+      "source": "TechCrunch"
+    },
+    {
+      "title": "L3Harris statement on the Nov. 13 ground stop",
+      "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+      "pubDate": "2026-11-14T22:51:44+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "pubDate": "2026-11-14T22:26:30+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "link": "https://retrocomputing.stackexchange.com/questions/17957",
+      "pubDate": "2026-11-14T22:22:49+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
+      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
+      "pubDate": "2026-11-14T22:10:13+00:00",
+      "source": "法国国际广播电台"
+    },
     {
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
@@ -235,8 +265,8 @@
       "source": "法国国际广播电台"
     },
     {
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "link": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "link": "https://www.spacex.com/launches/starship-flight-15",
       "pubDate": "2026-11-14T21:22:24+00:00",
       "source": "Hacker News"
     },
@@ -263,38 +293,8 @@
       "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261114-%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%85%A8%E5%9B%BD%E6%80%A7%E5%81%9C%E9%A3%9E%E9%95%BF%E8%BE%BE4%E4%B8%AA%E5%B0%8F%E6%97%B6-%E7%BA%A616000%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88",
       "pubDate": "2026-11-14T21:03:16+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "亚美尼亚申办2029年联合国气候变化大会",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-%E4%BA%9A%E7%BE%8E%E5%B0%BC%E4%BA%9A%E7%94%B3%E5%8A%9E2029%E5%B9%B4%E8%81%94%E5%90%88%E5%9B%BD%E6%B0%94%E5%80%99%E5%8F%98%E5%8C%96%E5%A4%A7%E4%BC%9A",
-      "pubDate": "2026-11-14T20:53:29+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Facebook 擅自读取意大利用户相册      Meta 被重罚",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-facebook-%E6%93%85%E8%87%AA%E8%AF%BB%E5%8F%96%E6%84%8F%E5%A4%A7%E5%88%A9%E7%94%A8%E6%88%B7%E7%9B%B8%E5%86%8C-meta-%E8%A2%AB%E9%87%8D%E7%BD%9A",
-      "pubDate": "2026-11-14T20:48:15+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "美：乌入北约就愿放弃领土？ 俄：先重谈欧洲安全架构再谈停火",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261114-%E7%BE%8E-%E4%B9%8C%E5%85%A5%E5%8C%97%E7%BA%A6%E5%B0%B1%E6%84%BF%E6%94%BE%E5%BC%83%E9%A2%86%E5%9C%9F-%E4%BF%84-%E5%85%88%E9%87%8D%E8%B0%88%E6%AC%A7%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%86%8D%E8%B0%88%E5%81%9C%E7%81%AB",
-      "pubDate": "2026-11-14T20:47:42+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "布丽吉特与前夫的长女前往中国展出其艺术品",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261114-%E5%B8%83%E4%B8%BD%E5%90%89%E7%89%B9%E4%B8%8E%E5%89%8D%E5%A4%AB%E7%9A%84%E9%95%BF%E5%A5%B3%E5%89%8D%E5%BE%80%E4%B8%AD%E5%9B%BD%E5%B1%95%E5%87%BA%E5%85%B6%E8%89%BA%E6%9C%AF%E5%93%81",
-      "pubDate": "2026-11-14T20:43:32+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "意重申支持德国加入全球作战空中计划（GCAP）",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%84%8F%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E5%BE%B7%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%85%A8%E7%90%83%E4%BD%9C%E6%88%98%E7%A9%BA%E4%B8%AD%E8%AE%A1%E5%88%92-gcap",
-      "pubDate": "2026-11-14T20:35:21+00:00",
-      "source": "法国国际广播电台"
     }
   ],
-  "generatedAt": "2026-11-14T21:44:38.318650+00:00",
+  "generatedAt": "2026-11-15T01:24:30.656839+00:00",
   "sourceCount": 4
 }
