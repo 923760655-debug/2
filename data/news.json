@@ -1,6 +1,12 @@
 {
   "world": [
     {
+      "title": "俄罗斯获准回归国际冰球大赛，加拿大拒不执行，俄威胁索赔",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261115-%E4%BF%84%E7%BD%97%E6%96%AF%E8%8E%B7%E5%87%86%E5%9B%9E%E5%BD%92%E5%9B%BD%E9%99%85%E5%86%B0%E7%90%83%E5%A4%A7%E8%B5%9B%EF%BC%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E4%B8%8D%E6%89%A7%E8%A1%8C%EF%BC%8C%E4%BF%84%E5%A8%81%E8%83%81%E7%B4%A2%E8%B5%94",
+      "pubDate": "2026-11-15T08:25:08+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "柏林的《日报》：黄仁勋事件可能会损害北京的利益",
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
       "pubDate": "2026-11-14T22:10:13+00:00",
@@ -65,25 +71,55 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%84%8F%E9%87%8D%E7%94%B3%E6%94%AF%E6%8C%81%E5%BE%B7%E5%9B%BD%E5%8A%A0%E5%85%A5%E5%85%A8%E7%90%83%E4%BD%9C%E6%88%98%E7%A9%BA%E4%B8%AD%E8%AE%A1%E5%88%92-gcap",
       "pubDate": "2026-11-14T20:35:21+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "橄榄球：威尔士自1953年以来首次击败新西兰",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%A9%84%E6%A6%84%E7%90%83-%E5%A8%81%E5%B0%94%E5%A3%AB%E8%87%AA1953%E5%B9%B4%E4%BB%A5%E6%9D%A5%E9%A6%96%E6%AC%A1%E5%87%BB%E8%B4%A5%E6%96%B0%E8%A5%BF%E5%85%B0",
-      "pubDate": "2026-11-14T20:27:02+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
     {
-      "title": "L3Harris statement on the Nov. 13 ground stop",
-      "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
-      "pubDate": "2026-11-14T22:51:44+00:00",
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "link": "https://netbsd.org/~nia/disk-encrypt/",
+      "pubDate": "2026-11-15T05:29:54+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "pubDate": "2026-11-14T22:26:30+00:00",
+      "title": "Kiri – The Modern Container Runtime",
+      "link": "https://runkiri.com/",
+      "pubDate": "2026-11-15T04:40:41+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "link": "https://github.com/matheuzgomes/gawain",
+      "pubDate": "2026-11-15T04:39:25+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "pubDate": "2026-11-15T04:09:11+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My favourite modern NES games",
+      "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "pubDate": "2026-11-15T02:41:25+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "pubDate": "2026-11-15T02:00:54+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "pubDate": "2026-11-15T01:18:36+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "link": "https://bobbiec.github.io/jamaican-font.html",
+      "pubDate": "2026-11-15T00:56:45+00:00",
       "source": "Hacker News"
     },
     {
@@ -99,18 +135,6 @@
       "source": "Hacker News"
     },
     {
-      "title": "Dartmouth (Guarini) will not admit math PhD cohort this year",
-      "link": "https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year",
-      "pubDate": "2026-11-14T19:23:40+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "LinkedIn, Monster take down over 1000 fake job postings after CBC investigation",
-      "link": "https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379",
-      "pubDate": "2026-11-14T18:56:47+00:00",
-      "source": "Hacker News"
-    },
-    {
       "title": "A family tree of software job titles",
       "link": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
       "pubDate": "2026-11-14T17:45:19+00:00",
@@ -121,33 +145,15 @@
       "link": "https://www.crissyfield.de/research/lovable-en/",
       "pubDate": "2026-11-14T17:43:10+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "Creating a self booting ZIP archive",
-      "link": "https://goliath32.com/blog/ziphead.html",
-      "pubDate": "2026-11-14T16:29:05+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "link": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
-      "pubDate": "2026-11-14T15:40:52+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: DeepSeek V3 in ~200 lines of pure Jax",
-      "link": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
-      "pubDate": "2026-11-14T15:04:15+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Demystifying phone unlocking tools: A technical overview",
-      "link": "https://osservatorionessuno.org/blog/2026/05/demystifying-phone-unlocking-tools-a-technical-overview/",
-      "pubDate": "2026-11-14T14:44:28+00:00",
-      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "俄罗斯获准回归国际冰球大赛，加拿大拒不执行，俄威胁索赔",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261115-%E4%BF%84%E7%BD%97%E6%96%AF%E8%8E%B7%E5%87%86%E5%9B%9E%E5%BD%92%E5%9B%BD%E9%99%85%E5%86%B0%E7%90%83%E5%A4%A7%E8%B5%9B%EF%BC%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E4%B8%8D%E6%89%A7%E8%A1%8C%EF%BC%8C%E4%BF%84%E5%A8%81%E8%83%81%E7%B4%A2%E8%B5%94",
+      "pubDate": "2026-11-15T08:25:08+00:00",
+      "source": "RFI经济"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
@@ -213,32 +219,68 @@
       "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261114-%E7%BE%8E-%E4%B9%8C%E5%85%A5%E5%8C%97%E7%BA%A6%E5%B0%B1%E6%84%BF%E6%94%BE%E5%BC%83%E9%A2%86%E5%9C%9F-%E4%BF%84-%E5%85%88%E9%87%8D%E8%B0%88%E6%AC%A7%E6%B4%B2%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%86%8D%E8%B0%88%E5%81%9C%E7%81%AB",
       "pubDate": "2026-11-14T20:47:42+00:00",
       "source": "RFI经济"
-    },
-    {
-      "title": "布丽吉特与前夫的长女前往中国展出其艺术品",
-      "link": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/20261114-%E5%B8%83%E4%B8%BD%E5%90%89%E7%89%B9%E4%B8%8E%E5%89%8D%E5%A4%AB%E7%9A%84%E9%95%BF%E5%A5%B3%E5%89%8D%E5%BE%80%E4%B8%AD%E5%9B%BD%E5%B1%95%E5%87%BA%E5%85%B6%E8%89%BA%E6%9C%AF%E5%93%81",
-      "pubDate": "2026-11-14T20:43:32+00:00",
-      "source": "RFI经济"
     }
   ],
   "trending": [
+    {
+      "title": "俄罗斯获准回归国际冰球大赛，加拿大拒不执行，俄威胁索赔",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261115-%E4%BF%84%E7%BD%97%E6%96%AF%E8%8E%B7%E5%87%86%E5%9B%9E%E5%BD%92%E5%9B%BD%E9%99%85%E5%86%B0%E7%90%83%E5%A4%A7%E8%B5%9B%EF%BC%8C%E5%8A%A0%E6%8B%BF%E5%A4%A7%E6%8B%92%E4%B8%8D%E6%89%A7%E8%A1%8C%EF%BC%8C%E4%BF%84%E5%A8%81%E8%83%81%E7%B4%A2%E8%B5%94",
+      "pubDate": "2026-11-15T08:25:08+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Disk encryption on NetBSD – achieving secrecy",
+      "link": "https://netbsd.org/~nia/disk-encrypt/",
+      "pubDate": "2026-11-15T05:29:54+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Kiri – The Modern Container Runtime",
+      "link": "https://runkiri.com/",
+      "pubDate": "2026-11-15T04:40:41+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Gawain – Require type hints on all Python variables",
+      "link": "https://github.com/matheuzgomes/gawain",
+      "pubDate": "2026-11-15T04:39:25+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+      "link": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "pubDate": "2026-11-15T04:09:11+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "My favourite modern NES games",
+      "link": "https://jordi.inversethought.com/blog/25-of-my-favourite-modern-nes-games/",
+      "pubDate": "2026-11-15T02:41:25+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "We're Asking an Appeals Court to Require a Warrant for ALPR Searches",
+      "link": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "pubDate": "2026-11-15T02:00:54+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Court denies motion to dismiss DRAM price fixing case",
+      "link": "https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal",
+      "pubDate": "2026-11-15T01:18:36+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+      "link": "https://bobbiec.github.io/jamaican-font.html",
+      "pubDate": "2026-11-15T00:56:45+00:00",
+      "source": "Hacker News"
+    },
     {
       "title": "Where was Nvidia’s security team?",
       "link": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
       "pubDate": "2026-11-15T00:08:07+00:00",
       "source": "TechCrunch"
-    },
-    {
-      "title": "L3Harris statement on the Nov. 13 ground stop",
-      "link": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
-      "pubDate": "2026-11-14T22:51:44+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
-      "link": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
-      "pubDate": "2026-11-14T22:26:30+00:00",
-      "source": "Hacker News"
     },
     {
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
@@ -251,50 +293,8 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261114-%E6%9F%8F%E6%9E%97%E7%9A%84-%E6%97%A5%E6%8A%A5-%E9%BB%84%E4%BB%81%E5%8B%8B%E4%BA%8B%E4%BB%B6%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8D%9F%E5%AE%B3%E5%8C%97%E4%BA%AC%E7%9A%84%E5%88%A9%E7%9B%8A",
       "pubDate": "2026-11-14T22:10:13+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
-      "link": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
-      "pubDate": "2026-11-14T21:41:22+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "特习会在即，美农民关注农产品贸易和关税问题",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261114-%E7%89%B9%E4%B9%A0%E4%BC%9A%E5%9C%A8%E5%8D%B3%EF%BC%8C%E7%BE%8E%E5%86%9C%E6%B0%91%E5%85%B3%E6%B3%A8%E5%86%9C%E4%BA%A7%E5%93%81%E8%B4%B8%E6%98%93%E5%92%8C%E5%85%B3%E7%A8%8E%E9%97%AE%E9%A2%98",
-      "pubDate": "2026-11-14T21:25:10+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "link": "https://www.spacex.com/launches/starship-flight-15",
-      "pubDate": "2026-11-14T21:22:24+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "马克龙：帮助乌自卫就是保护法国和法国人民",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E9%A9%AC%E5%85%8B%E9%BE%99-%E5%B8%AE%E5%8A%A9%E4%B9%8C%E8%87%AA%E5%8D%AB%E5%B0%B1%E6%98%AF%E4%BF%9D%E6%8A%A4%E6%B3%95%E5%9B%BD%E5%92%8C%E6%B3%95%E5%9B%BD%E4%BA%BA%E6%B0%91",
-      "pubDate": "2026-11-14T21:20:40+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "法国奢侈品最大市场从中国转向美国",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261114-%E6%B3%95%E5%9B%BD%E5%A5%A2%E4%BE%88%E5%93%81%E6%9C%80%E5%A4%A7%E5%B8%82%E5%9C%BA%E4%BB%8E%E4%B8%AD%E5%9B%BD%E8%BD%AC%E5%90%91%E7%BE%8E%E5%9B%BD",
-      "pubDate": "2026-11-14T21:19:40+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "美、中、俄三国首脑在深圳会晤：“普京或将是最大赢家”",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261114-%E7%BE%8E-%E4%B8%AD-%E4%BF%84%E4%B8%89%E5%9B%BD%E9%A6%96%E8%84%91%E5%9C%A8%E6%B7%B1%E5%9C%B3%E4%BC%9A%E6%99%A4-%E6%99%AE%E4%BA%AC%E6%88%96%E5%B0%86%E6%98%AF%E6%9C%80%E5%A4%A7%E8%B5%A2%E5%AE%B6",
-      "pubDate": "2026-11-14T21:18:57+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "美航班全国性停飞长达4个小时     约16000次航班取消",
-      "link": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/20261114-%E7%BE%8E%E8%88%AA%E7%8F%AD%E5%85%A8%E5%9B%BD%E6%80%A7%E5%81%9C%E9%A3%9E%E9%95%BF%E8%BE%BE4%E4%B8%AA%E5%B0%8F%E6%97%B6-%E7%BA%A616000%E6%AC%A1%E8%88%AA%E7%8F%AD%E5%8F%96%E6%B6%88",
-      "pubDate": "2026-11-14T21:03:16+00:00",
-      "source": "法国国际广播电台"
     }
   ],
-  "generatedAt": "2026-11-15T01:24:30.656839+00:00",
+  "generatedAt": "2026-11-15T08:32:28.480945+00:00",
   "sourceCount": 4
 }
