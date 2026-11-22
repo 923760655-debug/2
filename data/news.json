@@ -75,6 +75,30 @@
   ],
   "tech": [
     {
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "pubDate": "2026-11-22T02:14:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "pubDate": "2026-11-22T02:10:02+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "link": "https://github.com/ItsNotRexed/Leonida",
+      "pubDate": "2026-11-22T00:57:26+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "link": "https://stulle.app/",
+      "pubDate": "2026-11-22T00:07:59+00:00",
+      "source": "Hacker News"
+    },
+    {
       "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
       "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
       "pubDate": "2026-11-21T22:09:58+00:00",
@@ -120,30 +144,6 @@
       "title": "PostgreSQL Extensions in Go",
       "link": "https://jespino.github.io/gopgext/",
       "pubDate": "2026-11-21T17:08:04+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Verification files for the Lean proof of the Riemann Hypothesis",
-      "link": "https://math.mit.edu/~drew/grh/",
-      "pubDate": "2026-11-21T15:54:34+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: Zero C# – C# without a runtime or GC",
-      "link": "https://onurgumus.github.io/zero-csharp/index.html",
-      "pubDate": "2026-11-21T15:39:09+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Lean verification of the Riemann Hypothesis",
-      "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
-      "pubDate": "2026-11-21T14:36:45+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Detonating a pile of lead azide",
-      "link": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
-      "pubDate": "2026-11-21T13:23:14+00:00",
       "source": "Hacker News"
     }
   ],
@@ -223,6 +223,30 @@
   ],
   "trending": [
     {
+      "title": "Data Processing Incidents on Inference Providers",
+      "link": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "pubDate": "2026-11-22T02:14:14+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "The Mythology of Conscious AI",
+      "link": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "pubDate": "2026-11-22T02:10:02+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Leonida – PC Recompilation of the Xbox Version of GTA 6",
+      "link": "https://github.com/ItsNotRexed/Leonida",
+      "pubDate": "2026-11-22T00:57:26+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Sandwich Simulator",
+      "link": "https://stulle.app/",
+      "pubDate": "2026-11-22T00:07:59+00:00",
+      "source": "Hacker News"
+    },
+    {
       "title": "欧盟与印度尼西亚的贸易协议：让欧盟GDP高出160亿欧元， 印度尼西亚GDP高270亿欧元",
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261121-%E6%AC%A7%E7%9B%9F%E4%B8%8E%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%E7%9A%84%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE-%E8%AE%A9%E6%AC%A7%E7%9B%9Fgdp%E9%AB%98%E5%87%BA160%E4%BA%BF%E6%AC%A7%E5%85%83%EF%BC%8C-%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9Agdp%E9%AB%98270%E4%BA%BF%E6%AC%A7%E5%85%83",
       "pubDate": "2026-11-21T23:18:50+00:00",
@@ -269,32 +293,8 @@
       "link": "https://github.com/sebaandrada-cell/PcapAnalyzer",
       "pubDate": "2026-11-21T22:09:58+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "德国《南方信使报》：中美俄三巨头会晤成果寥寥无几",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261121-%E5%BE%B7%E5%9B%BD-%E5%8D%97%E6%96%B9%E4%BF%A1%E4%BD%BF%E6%8A%A5-%E4%B8%AD%E7%BE%8E%E4%BF%84%E4%B8%89%E5%B7%A8%E5%A4%B4%E4%BC%9A%E6%99%A4%E6%88%90%E6%9E%9C%E5%AF%A5%E5%AF%A5%E6%97%A0%E5%87%A0",
-      "pubDate": "2026-11-21T21:55:32+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "加州律师公会调查前白宫发言人扎卡里亚　涉未取得执照却多次自称律师",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261121-%E5%8A%A0%E5%B7%9E%E5%BE%8B%E5%B8%88%E5%85%AC%E4%BC%9A%E8%B0%83%E6%9F%A5%E5%89%8D%E7%99%BD%E5%AE%AB%E5%8F%91%E8%A8%80%E4%BA%BA%E6%89%8E%E5%8D%A1%E9%87%8C%E4%BA%9A-%E6%B6%89%E6%9C%AA%E5%8F%96%E5%BE%97%E6%89%A7%E7%85%A7%E5%8D%B4%E5%A4%9A%E6%AC%A1%E8%87%AA%E7%A7%B0%E5%BE%8B%E5%B8%88",
-      "pubDate": "2026-11-21T21:52:21+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "link": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "pubDate": "2026-11-21T21:37:10+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Advice for the next 100 Rust GUIs",
-      "link": "https://linebender.org/blog/next-100-guis/",
-      "pubDate": "2026-11-21T21:17:53+00:00",
-      "source": "Hacker News"
     }
   ],
-  "generatedAt": "2026-11-21T23:37:33.955123+00:00",
+  "generatedAt": "2026-11-22T03:44:33.439048+00:00",
   "sourceCount": 4
 }
