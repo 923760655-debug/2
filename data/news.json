@@ -1,6 +1,18 @@
 {
   "world": [
     {
+      "title": "陈吉宁落马：在习近平执政时期，政治忠诚正在取代专业能力",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B",
+      "pubDate": "2026-11-26T23:51:43+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "乌克兰情报机构：俄罗斯和朝鲜外交现裂痕，朝鲜暂停向俄运送导弹",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261126-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E6%9C%9D%E9%B2%9C%E5%A4%96%E4%BA%A4%E7%8E%B0%E8%A3%82%E7%97%95%EF%BC%8C%E6%9C%9D%E9%B2%9C%E6%9A%82%E5%81%9C%E5%90%91%E4%BF%84%E8%BF%90%E9%80%81%E5%AF%BC%E5%BC%B9",
+      "pubDate": "2026-11-26T23:48:44+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
       "title": "报告显示亚洲移民被遣返人数激增逾11倍",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261126-%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%BA%9A%E6%B4%B2%E7%A7%BB%E6%B0%91%E8%A2%AB%E9%81%A3%E8%BF%94%E4%BA%BA%E6%95%B0%E6%BF%80%E5%A2%9E%E9%80%BE11%E5%80%8D",
       "pubDate": "2026-11-26T21:53:21+00:00",
@@ -59,21 +71,39 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261126-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89-%E6%9E%81%E5%B7%A6%E6%9E%81%E5%8F%B3%E9%83%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0-%E7%AD%89%E5%BE%85%E6%B8%A9%E5%92%8C%E4%B8%AD%E6%B4%BE%E7%BB%84%E6%88%90%E5%A4%A7%E8%81%94%E7%9B%9F",
       "pubDate": "2026-11-26T20:53:25+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "感恩节之际特朗普敦促普京停战 欧盟启动第22轮对俄制裁",
-      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E8%A6%81%E9%97%BB%E5%88%86%E6%9E%90/20261126-%E6%84%9F%E6%81%A9%E8%8A%82%E4%B9%8B%E9%99%85%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%A6%E4%BF%83%E6%99%AE%E4%BA%AC%E5%81%9C%E6%88%98-%E6%AC%A7%E7%9B%9F%E5%90%AF%E5%8A%A8%E7%AC%AC22%E8%BD%AE%E5%AF%B9%E4%BF%84%E5%88%B6%E8%A3%81",
-      "pubDate": "2026-11-26T19:44:29+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "法二人电子音乐组合在《侠盗猎车手VI》大放异彩",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261126-%E6%B3%95%E4%BA%8C%E4%BA%BA%E7%94%B5%E5%AD%90%E9%9F%B3%E4%B9%90%E7%BB%84%E5%90%88%E5%9C%A8-%E4%BE%A0%E7%9B%97%E7%8C%8E%E8%BD%A6%E6%89%8Bvi-%E5%A4%A7%E6%94%BE%E5%BC%82%E5%BD%A9",
-      "pubDate": "2026-11-26T19:40:28+00:00",
-      "source": "法国国际广播电台"
     }
   ],
   "tech": [
+    {
+      "title": "Google will show solo Android developers' phone numbers and addresses",
+      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+      "pubDate": "2026-11-27T03:11:41+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "pubDate": "2026-11-27T02:44:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "pubDate": "2026-11-27T01:13:49+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "pubDate": "2026-11-27T00:03:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "link": "https://kendell.dev/blog/arkwrapper/",
+      "pubDate": "2026-11-26T21:59:19+00:00",
+      "source": "Hacker News"
+    },
     {
       "title": "AI made self-hosting fun again",
       "link": "https://janlukas.blog/posts/ai-self-hosting",
@@ -87,15 +117,21 @@
       "source": "Hacker News"
     },
     {
-      "title": "Top-cited AI scientists at four US companies compared",
-      "link": "https://topcitedscientists.com/figures/ai-at-four-us-companies/",
-      "pubDate": "2026-11-26T19:44:31+00:00",
+      "title": "Company Culture = Slack Emoji ÷ √Headcount",
+      "link": "https://lia.mg/posts/measuring-company-culture-with-slack-emoji/",
+      "pubDate": "2026-11-26T20:49:49+00:00",
       "source": "Hacker News"
     },
     {
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "title": "Rvoip: VoIP stack in Rust",
       "link": "https://github.com/eisenzopf/rvoip",
       "pubDate": "2026-11-26T19:18:09+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "An introduction to uncertainty in machine learning",
+      "link": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+      "pubDate": "2026-11-26T19:04:50+00:00",
       "source": "Hacker News"
     },
     {
@@ -105,49 +141,25 @@
       "source": "Hacker News"
     },
     {
-      "title": "Show HN: Fuck_data_brokers.py",
-      "link": "https://github.com/gary23w/f-ck_data_brokers",
-      "pubDate": "2026-11-26T18:37:21+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "IBM gives H-1B, green card holders 3 weeks to relocate from US or leave company",
-      "link": "https://economictimes.indiatimes.com/nri/work/ibm-gives-h-1b-green-card-holders-3-weeks-to-relocate-from-us-or-leave-company-december-31-deadline-set/articleshow/136180168.cms?from=mdr",
-      "pubDate": "2026-11-26T18:35:37+00:00",
-      "source": "Hacker News"
-    },
-    {
       "title": "George Whitesides, 1939-2026",
       "link": "https://www.science.org/content/blog-post/george-whitesides-1939-2026",
       "pubDate": "2026-11-26T18:13:07+00:00",
       "source": "Hacker News"
-    },
-    {
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-      "pubDate": "2026-11-26T17:47:45+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
-      "link": "https://github.com/antonpictures/youtube-punisher",
-      "pubDate": "2026-11-26T17:36:47+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "AMD-specific fork of llama.cpp",
-      "link": "https://devnull.land/amd-specific-llama-cpp",
-      "pubDate": "2026-11-26T17:11:29+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "Show HN: SimDrop – Running iOS simulators in the macOS Finder sidebar",
-      "link": "https://github.com/rxliuli/sim-drop",
-      "pubDate": "2026-11-26T16:51:38+00:00",
-      "source": "Hacker News"
     }
   ],
   "finance": [
+    {
+      "title": "陈吉宁落马：在习近平执政时期，政治忠诚正在取代专业能力",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B",
+      "pubDate": "2026-11-26T23:51:43+00:00",
+      "source": "RFI经济"
+    },
+    {
+      "title": "乌克兰情报机构：俄罗斯和朝鲜外交现裂痕，朝鲜暂停向俄运送导弹",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261126-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E6%9C%9D%E9%B2%9C%E5%A4%96%E4%BA%A4%E7%8E%B0%E8%A3%82%E7%97%95%EF%BC%8C%E6%9C%9D%E9%B2%9C%E6%9A%82%E5%81%9C%E5%90%91%E4%BF%84%E8%BF%90%E9%80%81%E5%AF%BC%E5%BC%B9",
+      "pubDate": "2026-11-26T23:48:44+00:00",
+      "source": "RFI经济"
+    },
     {
       "title": "报告显示亚洲移民被遣返人数激增逾11倍",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261126-%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%BA%9A%E6%B4%B2%E7%A7%BB%E6%B0%91%E8%A2%AB%E9%81%A3%E8%BF%94%E4%BA%BA%E6%95%B0%E6%BF%80%E5%A2%9E%E9%80%BE11%E5%80%8D",
@@ -207,21 +219,51 @@
       "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261126-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89-%E6%9E%81%E5%B7%A6%E6%9E%81%E5%8F%B3%E9%83%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0-%E7%AD%89%E5%BE%85%E6%B8%A9%E5%92%8C%E4%B8%AD%E6%B4%BE%E7%BB%84%E6%88%90%E5%A4%A7%E8%81%94%E7%9B%9F",
       "pubDate": "2026-11-26T20:53:25+00:00",
       "source": "RFI经济"
-    },
-    {
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "link": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "pubDate": "2026-11-26T20:03:54+00:00",
-      "source": "TechCrunch"
-    },
-    {
-      "title": "Is Alice Huang a spy or not?",
-      "link": "https://techcrunch.com/2026/11/26/is-alice-huang-a-spy-or-not/",
-      "pubDate": "2026-11-26T20:00:00+00:00",
-      "source": "TechCrunch"
     }
   ],
   "trending": [
+    {
+      "title": "Google will show solo Android developers' phone numbers and addresses",
+      "link": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+      "pubDate": "2026-11-27T03:11:41+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+      "link": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "pubDate": "2026-11-27T02:44:12+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "Hard Drive pricing has gotten bad",
+      "link": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "pubDate": "2026-11-27T01:13:49+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "AI agents now control part of DeepMind's compute for Gemini experiments",
+      "link": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant/",
+      "pubDate": "2026-11-27T00:03:18+00:00",
+      "source": "Hacker News"
+    },
+    {
+      "title": "陈吉宁落马：在习近平执政时期，政治忠诚正在取代专业能力",
+      "link": "https://www.rfi.fr/cn/%E4%B8%93%E6%A0%8F%E6%A3%80%E7%B4%A2/%E6%B3%95%E5%9B%BD%E4%B8%96%E7%95%8C%E6%8A%A5/20261126-%E9%99%88%E5%90%89%E5%AE%81%E8%90%BD%E9%A9%AC-%E5%9C%A8%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%89%A7%E6%94%BF%E6%97%B6%E6%9C%9F%EF%BC%8C%E6%94%BF%E6%B2%BB%E5%BF%A0%E8%AF%9A%E6%AD%A3%E5%9C%A8%E5%8F%96%E4%BB%A3%E4%B8%93%E4%B8%9A%E8%83%BD%E5%8A%9B",
+      "pubDate": "2026-11-26T23:51:43+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "乌克兰情报机构：俄罗斯和朝鲜外交现裂痕，朝鲜暂停向俄运送导弹",
+      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261126-%E4%B9%8C%E5%85%8B%E5%85%B0%E6%83%85%E6%8A%A5%E6%9C%BA%E6%9E%84-%E4%BF%84%E7%BD%97%E6%96%AF%E5%92%8C%E6%9C%9D%E9%B2%9C%E5%A4%96%E4%BA%A4%E7%8E%B0%E8%A3%82%E7%97%95%EF%BC%8C%E6%9C%9D%E9%B2%9C%E6%9A%82%E5%81%9C%E5%90%91%E4%BF%84%E8%BF%90%E9%80%81%E5%AF%BC%E5%BC%B9",
+      "pubDate": "2026-11-26T23:48:44+00:00",
+      "source": "法国国际广播电台"
+    },
+    {
+      "title": "Novita, StreamLake, etc. are ByteDance Ark wrappers",
+      "link": "https://kendell.dev/blog/arkwrapper/",
+      "pubDate": "2026-11-26T21:59:19+00:00",
+      "source": "Hacker News"
+    },
     {
       "title": "报告显示亚洲移民被遣返人数激增逾11倍",
       "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261126-%E6%8A%A5%E5%91%8A%E6%98%BE%E7%A4%BA%E4%BA%9A%E6%B4%B2%E7%A7%BB%E6%B0%91%E8%A2%AB%E9%81%A3%E8%BF%94%E4%BA%BA%E6%95%B0%E6%BF%80%E5%A2%9E%E9%80%BE11%E5%80%8D",
@@ -251,50 +293,8 @@
       "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261126-%E7%91%9E%E5%85%B8%E5%8F%AC%E8%A7%81%E4%BF%84%E5%A4%A7%E4%BD%BF-%E5%AF%B9%E4%BF%84%E5%AF%BC%E5%BC%B9%E4%BE%B5%E5%85%A5%E6%B3%A2%E5%85%B0%E4%BB%A5%E7%A4%BA%E6%8A%97%E8%AE%AE",
       "pubDate": "2026-11-26T21:12:17+00:00",
       "source": "法国国际广播电台"
-    },
-    {
-      "title": "Rockstar Games员工否决公司内部工会的合法化提案",
-      "link": "https://www.rfi.fr/cn/%E5%9B%BD%E9%99%85/20261126-rockstar-games%E5%91%98%E5%B7%A5%E5%90%A6%E5%86%B3%E5%85%AC%E5%8F%B8%E5%86%85%E9%83%A8%E5%B7%A5%E4%BC%9A%E7%9A%84%E5%90%88%E6%B3%95%E5%8C%96%E6%8F%90%E6%A1%88",
-      "pubDate": "2026-11-26T21:09:09+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "link": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
-      "pubDate": "2026-11-26T21:08:05+00:00",
-      "source": "Hacker News"
-    },
-    {
-      "title": "法媒：欧洲要接管一个没有中国背景的TikTok",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261126-%E6%B3%95%E5%AA%92-%E6%AC%A7%E6%B4%B2%E8%A6%81%E6%8E%A5%E7%AE%A1%E4%B8%80%E4%B8%AA%E6%B2%A1%E6%9C%89%E4%B8%AD%E5%9B%BD%E8%83%8C%E6%99%AF%E7%9A%84tiktok",
-      "pubDate": "2026-11-26T21:06:50+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "英欧允每年10万青年互赴工作留学    学费仍未落实",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261126-%E8%8B%B1%E6%AC%A7%E5%85%81%E6%AF%8F%E5%B9%B410%E4%B8%87%E9%9D%92%E5%B9%B4%E4%BA%92%E8%B5%B4%E5%B7%A5%E4%BD%9C%E7%95%99%E5%AD%A6-%E5%AD%A6%E8%B4%B9%E4%BB%8D%E6%9C%AA%E8%90%BD%E5%AE%9E",
-      "pubDate": "2026-11-26T21:02:21+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "中男足国家队的最年轻球员赵松源",
-      "link": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/20261126-%E4%B8%AD%E7%94%B7%E8%B6%B3%E5%9B%BD%E5%AE%B6%E9%98%9F%E7%9A%84%E6%9C%80%E5%B9%B4%E8%BD%BB%E7%90%83%E5%91%98%E8%B5%B5%E6%9D%BE%E6%BA%90",
-      "pubDate": "2026-11-26T20:59:30+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "西度假胜地外海油轮沉没   当局严防海洋污染",
-      "link": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/20261126-%E8%A5%BF%E5%BA%A6%E5%81%87%E8%83%9C%E5%9C%B0%E5%A4%96%E6%B5%B7%E6%B2%B9%E8%BD%AE%E6%B2%89%E6%B2%A1-%E5%BD%93%E5%B1%80%E4%B8%A5%E9%98%B2%E6%B5%B7%E6%B4%8B%E6%B1%A1%E6%9F%93",
-      "pubDate": "2026-11-26T20:55:37+00:00",
-      "source": "法国国际广播电台"
-    },
-    {
-      "title": "法国总统大选：极左极右都不支持乌克兰 等待温和中派组成大联盟",
-      "link": "https://www.rfi.fr/cn/%E6%94%BF%E6%B2%BB/20261126-%E6%B3%95%E5%9B%BD%E6%80%BB%E7%BB%9F%E5%A4%A7%E9%80%89-%E6%9E%81%E5%B7%A6%E6%9E%81%E5%8F%B3%E9%83%BD%E4%B8%8D%E6%94%AF%E6%8C%81%E4%B9%8C%E5%85%8B%E5%85%B0-%E7%AD%89%E5%BE%85%E6%B8%A9%E5%92%8C%E4%B8%AD%E6%B4%BE%E7%BB%84%E6%88%90%E5%A4%A7%E8%81%94%E7%9B%9F",
-      "pubDate": "2026-11-26T20:53:25+00:00",
-      "source": "法国国际广播电台"
     }
   ],
-  "generatedAt": "2026-11-26T22:39:29.649959+00:00",
+  "generatedAt": "2026-11-27T04:37:42.421977+00:00",
   "sourceCount": 4
 }
